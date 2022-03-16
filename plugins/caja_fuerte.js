@@ -56,7 +56,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ° ඬ⃟🗳️ _${usedPrefix}eliminarimg *texto/comando/palabra clave*_
 ° ඬ⃟🗳️ _${usedPrefix}eliminarsticker *texto/comando/palabra clave*_
 
-*_「 𝙏͚͜͝͠𝙝͚͜͝͠𝙚͚͜͝͠ ͚͜͝͠𝙎͚͜͝͠𝙝͚͜͝͠𝙖͚͜͝͠𝙙͚͜͝͠𝙤͚͜͝͠𝙬͚͜͝͠ ͚͜͝͠𝘽͚͜͝͠𝙧͚͜͝͠𝙤͚͜͝͠𝙠͚͜͝͠𝙚͚͜͝͠𝙧͚͜͝͠𝙨͚͜͝͠ ͚͜͝͠-͚͜͝͠ ͚͜͝͠𝘽͚͜͝͠𝙤͚͜͝͠𝙩͚͜͝͠ ͚͜͝͠  」_*`.trim()
+*_「  A̲G̲R̲O̲M̲O̲S̲ ̲S̲P̲-̲B̲O̲T̲ 」_*`.trim()
     let mentionedJid = [who]
     conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
   }
