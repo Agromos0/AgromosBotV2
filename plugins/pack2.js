@@ -4,7 +4,7 @@ let handler = async (m, { conn }) => {
 	let url = packgirl[Math.floor(Math.random() * packgirl.length)]
 	await conn.sendMessage(m.chat, {
 		contentText: 'Pack xxx By ShadowBot',
-		footerText: '©The Shadow Brokers - Bot',
+		footerText: 'AGROMOS SP - Bot',
 		buttons: [
 			{ buttonId: '.pack2', buttonText: { displayText: 'SIGUIENTE' }, type: 1 }
 		],
