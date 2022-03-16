@@ -9,7 +9,7 @@ conn.reply(m.chat, text, m, { thumbnail: kai, contextInfo: {
 mentionedJid: [who],
 externalAdReply: {
 title: '𝚁𝙴𝙿𝙾𝚂𝙸𝚃𝙾𝚁𝙸𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃',
-body: '🤖 Ｓｈａｄｏｗ Ｂｏｔ 🤖',
+body: '🤖 AGROMOS SP  🤖',
 thumbnail: pp
 }}})}
 handler.command = /^sc|script|repositorio|repobot|scbot$/i
