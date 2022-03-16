@@ -4,7 +4,7 @@ let handler = async (m, { conn }) => {
 	let url = muslos[Math.floor(Math.random() * muslos.length)]
 	await conn.sendMessage(m.chat, {
 		contentText: '🔥🔥🔥🔥',
-		footerText: '©The Shadow Brokers - Bot',
+		footerText: '𝐴𝐺𝑅𝑂𝑀𝑂𝑆 𝑆𝑃-𝐵𝑂𝑇',
 		buttons: [
 			{ buttonId: '.muslos', buttonText: { displayText: 'SIGUIENTE' }, type: 1 }
 		],
