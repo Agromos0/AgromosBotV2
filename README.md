@@ -8,8 +8,7 @@
 
 
 ### `Video tutorial para instalar el Bot`
-<a href="https://www.youtube.com/watch?v=dP8-aaHinBE&t=55s"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
-> Dar click en la imagen para redireccionarlos a YouTube
+<a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 
 ### `INSTALACION TERMUX`
 ```bash
