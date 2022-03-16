@@ -42,7 +42,7 @@ let str = `
 ┣ ඬ⃟🎖️ _${usedPrefix}topput@s_
 ┣ ඬ⃟🎖️ _${usedPrefix}toppajer@s_
 ┣ ඬ⃟🎖️ _${usedPrefix}topotakus_
-┣ ඬ⃟👻 _${usedPrefix}owner_
+┣ ඬ⃟👻 _${usedPrefix}agromos_
 ┣ ඬ⃟🕹 _${usedPrefix}math_
 ┣ ඬ⃟🎮 _${usedPrefix}ttt_
 ┣ ඬ⃟🕹 _${usedPrefix}delttt_
