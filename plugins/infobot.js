@@ -48,8 +48,8 @@ let handler = async (m, { conn, usedPrefix }) => {
   let info = `
 ╠═〘 *Informacion del Bot* 〙 ═
 ╠
-╠➥ [🤴🏻] Creador del Bot: *Bruno Sobrino*
-╠➥ [#️⃣] Numero del creador: *+1 (772) 238-6341*
+╠➥ [🤴🏻] Creador del Bot: *AGROMOS SP*
+╠➥ [#️⃣] Numero del creador: *+1 (817) 865-9441*
 ╠➥ [🌐] Navegador: *${conn.browserDescription[1]}*
 ╠➥ [✅] version: *${conn.browserDescription[2]}*
 ╠➥ [🎳] Prefijo: *${usedPrefix}*
@@ -66,7 +66,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ╠
 ╠═〘 *The Shadow Brokers - Bot* 〙 ═
 `.trim() 
-  conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🔥 THE SHADOW BROKERS - BOT 🔥*', 'status@broadcast')
+  conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🔥 AGROMOS SP-BOT - BOT 🔥*', 'status@broadcast')
 }
 //handler.help = ['ping', 'speed']
 //handler.tags = ['info', 'tools']
