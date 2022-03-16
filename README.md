@@ -4,7 +4,7 @@
 ### `Unete a los grupos oficales para conocer novedades del Bot`
 [![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JiONzKmPvB25su65XzAbqA)
 ### `AJUSTES`
-- CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/BrunoSobrino/ShadowBotV3/blob/master/config.js)
+- NUNERO DEL PROPIETARIO [Aqui](wa.me18178659441)
 
 ### `Video tutorial para instalar el Bot`
 <a href="https://www.youtube.com/watch?v=dP8-aaHinBE&t=55s"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/BrunoSobrino/ShadowBotV3
+> git clone https://github.com/Agromos0/ShadowBotV3
 > cd ShadowBotV3
 > npm install
 > npm install -g npm@8.5.3
