@@ -527,9 +527,9 @@ ${global.owner.map((v, i) => '*Contacto ' + (i + 1) + ':* wa.me/' + v).join('\n'
 
 global.dfail = (type, m, conn) => {
   let msg = {
-    rowner: '*[ ⚠ ️] Este comando solo puede ser utilizado por el propietario/owner del Bot*',
+    rowner: '*[ ⚠ ️] Este comando solo puede ser utilizado por el propietario/agromos del Bot*',
     owner: '*[ ⚠ ️] Este comando solo puede ser utilizado por sub Bots (jadibot/serbot) y el propietario*',
-    mods: '*[ ⚠ ️] Este comando solo puede ser utilizado por moderadores y el propietario/owner del Bot*',
+    mods: '*[ ⚠ ️] Este comando solo puede ser utilizado por moderadores y el propietario/agromos del Bot*',
     premium: '*[ ⚠ ️] Este comando es solo para miembros premium*',
     group: '*[ ⚠ ️] Este comando solo se puede usar en grupos*',
     private: '*[ ⚠ ️] Este comando solo se puede usar en el chat privado del numero del Bot*',
