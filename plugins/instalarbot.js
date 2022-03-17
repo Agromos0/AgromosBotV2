@@ -35,8 +35,8 @@ let handler = async m => m.reply(`
 ➤ Se sugiere leer el archivo README.md 
 ➤ Para habilitar el /añadir y el /sacar usa #enable autoread
 - Puede ocasionar que el numero se vaya a soporte 
-➤ PayPal para apoyo voluntario: https://www.paypal.me/TheShadowBrokers133
-➤ Numero de ayuda durante la instalacion: wa.me/5219992095479 (No Bot, solo ayuda durante la instalación)
+➤ PayPal para apoyo voluntario: toxicoyt084@gmail.com 
+➤ Numero de ayuda durante la instalacion: wa.me/523931806576 (No Bot, solo ayuda durante la instalación)
 
 *◄┢┅͜͡✇⟬↯ື ►ஜ۩💥۩ஜ◄ ↯ື⟭✇͜͡┅┧►*
 `.trim()) 
