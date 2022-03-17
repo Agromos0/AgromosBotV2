@@ -8,7 +8,7 @@
 
 
 ### `Video tutorial para instalar el Bot`
-<a href="http://wa.me/3931806576" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="http://wa.me/523931806576" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 
 ### `INSTALACION TERMUX`
 ```bash
