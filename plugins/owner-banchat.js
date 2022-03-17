@@ -8,7 +8,7 @@ let handler = async (m, { conn, participants }) => {
   // } else m.reply('Aquí hay un número de un host...')
 }
 handler.help = ['banchat']
-handler.tags = ['agromos]
+handler.tags = ['agromos']
 handler.command = /^banchat2$/i
 handler.rowner = true
 module.exports = handler
