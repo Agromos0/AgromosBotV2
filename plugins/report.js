@@ -7,7 +7,7 @@ let handler = async(m, { conn, text }) => {
     const teks1 = `*_❒═════[REPORTE]═════╾❒_*\n*_┬_*\n*_├Numero: wa.me/${nomor.split("@s.whatsapp.net")[0]}_*\n*_┴_*\n*_┬_*\n*_├Mensaje: ${text}_*\n*_┴_*`
     conn.sendMessage('18178659441@s.whatsapp.net', teks1, MessageType.text)
     conn.sendMessage('523931806576@s.whatsapp.net', teks1, MessageType.text) // añade tu número aqui, pero no quites el otro. Quita las // del inicio de esta línea
-    conn.reply(m.chat, '*_❌ El problema se ha informado al propietario del Bot ✅_*\n\n*_Nos pondremos en contacto contigo a la brevedad posible️_*', m)
+    conn.reply(m.chat, '*_🔊 El problema se ha informado al propietario del Bot ✅_*\n\n*_Nos pondremos en contacto contigo a la brevedad posible️_*', m)
 }
 handler.help = ['bug <reporte>', 'report <reporte>']
 handler.tags = ['info']
