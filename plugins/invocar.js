@@ -3,7 +3,7 @@ let handler = async (m, { conn, participants, args }) => {
 const getGroupAdmins = (participants) => { admins = []
 for (let i of participants) { i.isAdmin ? admins.push(i.jid) : '' } return admins }
 const mentions = (teks, memberr, id) => { (id == null || id == undefined || id == false) ? conn.sendMessage(m.chat, teks.trim(), MessageType.extendedText, { contextInfo: { "mentionedJid": memberr } }) : 
-conn.sendButton(m.chat, teks.trim(), '©The Shadow Brokers - Bot', 'VOLVER A INVOCAR', `#invocar`, MessageType.extendedText, { quoted: m, contextInfo: { "mentionedJid": memberr } })}
+conn.sendButton(m.chat, teks.trim(), 'AGROMOS SP - Bot', 'VOLVER A INVOCAR', `#invocar`, MessageType.extendedText, { quoted: m, contextInfo: { "mentionedJid": memberr } })}
 const isGroup = m.chat.endsWith('@g.us')
 let grupmeta = await conn.groupMetadata(m.chat)
 const groupMembers = isGroup ? grupmeta.participants : ''
