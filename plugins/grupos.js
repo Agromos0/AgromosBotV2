@@ -4,6 +4,8 @@ let info = `
 
 *➤ Grupo oficial del Bot:*
 *1.-https://chat.whatsapp.com/JiONzKmPvB25su65XzAbqA
+
+
 *2.-https://chat.whatsapp.com/Cobe0LZhPGeEpvMyyzRgkU
 `.trim() 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🔥 AGROMOS SP - BOT 🔥*', 'status@broadcast')}
