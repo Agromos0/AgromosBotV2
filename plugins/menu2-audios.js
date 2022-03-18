@@ -54,6 +54,7 @@ let str = `
 ° ඬ⃟🔊 _UwU_
 ° ඬ⃟🔊 _:c_
 ° ඬ⃟🔊 _a_
+° ඬ⃟🔊 _ara ara_
 
 *_「 A̶G̶R̶O̶M̶O̶S̶ S̶P̶-̶B̶O̶T̶  」_*`.trim()
 let mentionedJid = [who]
