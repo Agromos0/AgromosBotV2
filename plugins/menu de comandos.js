@@ -21,8 +21,8 @@ let menu =`
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *Creador del Bot: AGROMOS SP* 
 ║➤ *Numero del creador:* *wa.me/18178659441 (No Bot)*
-║➤ *Numero del soporte del bot oficial (no bot)wa.me/523931806576*
-║➤ *Numero del Bot oficial:* *wa.me/12366002702*
+║➤ *Numero del soporte del bot oficial (no bot)wa.me/12366002702*
+║➤ *Numero del Bot oficial:* *wa.me/523931806576*
 ║➤ *Numero del Sub Bot oficial:* *wa.me/524777935604*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
