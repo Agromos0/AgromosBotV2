@@ -12,51 +12,67 @@ let { name, limit, exp, banned, lastclaim, registered, regTime, age, level } = g
 let { min, xp, max } = levelling.xpRange(level, global.multiplier)
 let username = conn.getName(who)
 let str = `
-*_ミ💖 Hola ${username} 💖彡_*
+*_💚 Hola ${username} 💚_*
 
 *<MENU DE AUDIOS/>*
 - Escribe las palabras/frases tal como estan, no hace falta poner ningun prefijo (#, ., *, etc) 
 
-° ඬ⃟🔊 _Quien es tu sempai botsito 7w7_
-° ඬ⃟🔊 _Te diagnostico con gay_
-° ඬ⃟🔊 _A nadie le importa_
-° ඬ⃟🔊 _Fiesta del admin_
-° ඬ⃟🔊 _Fiesta del admin 2_
-° ඬ⃟🔊 _Vivan los novios_
-° ඬ⃟🔊 _Feliz cumpleaños_
-° ඬ⃟🔊 _Noche de paz_
-° ඬ⃟🔊 _Buenos dias_
-° ඬ⃟🔊 _Audio hentai_
-° ඬ⃟🔊 _Chica lgante_
-° ඬ⃟🔊 _Feliz navidad_
-° ඬ⃟🔊 _Vete a la vrg_
-° ඬ⃟🔊 _Pasa pack Bot_
-° ඬ⃟🔊 _Atencion grupo_
-° ඬ⃟🔊 _Marica quien_
-° ඬ⃟🔊 _Murio el grupo_
-° ඬ⃟🔊 _Oh me vengo_
-° ඬ⃟🔊 _Viernes_
-° ඬ⃟🔊 _Baneado_
-° ඬ⃟🔊 _Sexo_
-° ඬ⃟🔊 _Hola_
-° ඬ⃟🔊 _Un pato_
-° ඬ⃟🔊 _Nyanpasu_
-° ඬ⃟🔊 _Te amo_
-° ඬ⃟🔊 _Yamete_
-° ඬ⃟🔊 _Bañate_
-° ඬ⃟🔊 _Es puto_
-° ඬ⃟🔊 _La biblia_
-° ඬ⃟🔊 _Onichan_
-° ඬ⃟🔊 _Bot puto_
-° ඬ⃟🔊 _Shadow Bot_
-° ඬ⃟🔊 _Siuuu_
-° ඬ⃟🔊 _Rawr_
-° ඬ⃟🔊 _UwU_
-° ඬ⃟🔊 _:c_
-° ඬ⃟🔊 _a_
-° ඬ⃟🔊 _ara ara_
+° ➬🔊 _Quien es tu sempai botsito 7w7_
+° ➬🔊  _Te diagnostico con gay_
+° ➬🔊  _A nadie le importa_
+° ➬🔊  _Fiesta del admin_
+° ➬🔊  _Fiesta del admin 2_
+° ➬🔊  _Vivan los novios_
+° ➬🔊  _Feliz cumpleaños_
+° ➬🔊  _Noche de paz_
+° ➬🔊  _Buenos dias_
+° ➬🔊  _Audio hentai_
+° ➬🔊  _Chica lgante_
+° ➬🔊  _Feliz navidad_
+° ➬🔊  _Vete a la vrg_
+° ➬🔊  _Pasa pack Bot_
+° ➬🔊  _Atencion grupo_
+° ➬🔊  _Marica quien_
+° ➬🔊  _Murio el grupo_
+° ➬🔊  _Oh me vengo_
+° ➬🔊  _Viernes_
+° ➬🔊  _Baneado_
+° ➬🔊  _Sexo_
+° ➬🔊  _Hola_
+° ➬🔊  _Un pato_
+° ➬🔊  _Nyanpasu_
+° ➬🔊  _Te amo_
+° ➬🔊  _Yamete_
+° ➬🔊  _Bañate_
+° ➬🔊  _Es puto_
+° ➬🔊  _La biblia_
+° ➬🔊  _Onichan_
+° ➬🔊  _Bot puto_
+° ➬🔊  _Shadow Bot_
+° ➬🔊  _Siuuu_
+° ➬🔊  _Rawr_
+° ➬🔊  _UwU_
+° ➬🔊  _:c_
+° ➬🔊  _a_
+° ➬🔊  _ara ara_
+° ➬🔊  _Bien pesando woody_
+° ➬🔊  _Fino señores_
+° ➬🔊  _Entrada épica_
+° ➬🔊  _Enojado_
+° ➬🔊  _Enojada_
+° ➬🔊  _Me pica los cocos_
+° ➬🔊  _verdad que te engañe_
+° ➬🔊  _Yoshi_
+° ➬🔊  _No digas eso papu_
+° ➬🔊  _Masivo_
+° ➬🔊  _Sus_
+° ➬🔊  _La voz de hombre_
+° ➬🔊  _Jesucristo_
+° ➬🔊  _Una pregunta_
+° ➬🔊  _Pikachu_
+° ➬🔊  _Yokese_
 
-*_「 A̶G̶R̶O̶M̶O̶S̶ S̶P̶-̶B̶O̶T̶  」_*`.trim()
+*_「 💚A̶G̶R̶O̶M̶O̶S̶ S̶P̶-̶B̶O̶T̶💚  」_*`.trim()
 let mentionedJid = [who]
 conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
 }}
