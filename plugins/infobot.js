@@ -64,7 +64,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ╠➥ [🪀] version de WhatsApp: *${conn.user.phone.wa_version}*
 ╠➥ [🤖] Bots secundarios activos: *${totaljadibot.length}*
 ╠
-╠═〘 *The Shadow Brokers - Bot* 〙 ═
+╠═〘 *AGROMOS SP - Bot* 〙 ═
 `.trim() 
   conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🔥 AGROMOS SP-BOT - BOT 🔥*', 'status@broadcast')
 }
