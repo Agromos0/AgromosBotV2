@@ -21,9 +21,9 @@ let menu =`
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *Creador del Bot: AGROMOS SP* 
 ║➤ *Numero del creador:* *wa.me/18178659441 (No Bot)*
-║➤ *Numero del soporte del bot oficial (no bot)wa.me/12366002702*
+║➤ *Numero del sub bot oficial (no bot)wa.me/595983186566 (EL SANTI SUB BOT OFICIAL Y EX ACTOR NOPOR)*
 ║➤ *Numero del Bot oficial:* *wa.me/523931806576*
-║➤ *Numero del Sub Bot oficial:* *wa.me/524777935604*
+║➤ *Numero del Bot oficial²:* *wa.me/524777935604*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
