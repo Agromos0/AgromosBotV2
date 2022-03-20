@@ -18,7 +18,7 @@
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/Agromos0/ShadowBotV3
+> https://github.com/Agromos0/AgromosBotV1
 > cd ShadowBotV3
 > npm install
 > npm install -g npm@8.5.3
