@@ -6,7 +6,7 @@ Formato para uso:
 #tts (código) (texto)
 
 Ejemplo:
-#tts es Hola mundo 
+#tts es Hola agromos
 
 Lista de códigos: 
   'af': 'Afrikaans',
