@@ -55,7 +55,30 @@ let str = `
 ° ➬🔊  _:c_
 ° ➬🔊  _a_
 ° ➬🔊  _ara ara_
-
+❗LOS  SIGUIENTE  COMANDOS SON NUEVOS REPORTAR POR SI ALGUNO NO SIRVE EN #report
+° ➬🔊  _Bien pesando woody_
+° ➬🔊  _Fino señores_
+° ➬🔊  _Entrada épica_
+° ➬🔊  _Me pica los cocos_
+° ➬🔊  _verdad que te engañe_
+° ➬🔊  _Yoshi_
+° ➬🔊  _No digas eso papu_
+° ➬🔊  _Masivo_
+° ➬🔊  _Sus_
+° ➬🔊  _La voz de hombre_
+° ➬🔊  _Jesucristo_
+° ➬🔊  _Una pregunta_
+° ➬🔊  _Pikachu_
+° ➬🔊  _Yokese_
+° ➬🔊  _pero esto_
+° ➬🔊  _Basado_
+° ➬🔊  _Tengo los calzones del admin_
+° ➬🔊  _Estoy triste_
+° ➬🔊  _Audio Hentai_
+° ➬🔊  _Navidad_
+° ➬🔊  _Cagaste_
+° ➬🔊  _Niconico
+° ➬🔊 _Wtf_
 *_「 💚A̶G̶R̶O̶M̶O̶S̶ S̶P̶-̶B̶O̶T̶💚  」_*`.trim()
 let mentionedJid = [who]
 conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
