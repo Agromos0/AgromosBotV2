@@ -23,7 +23,7 @@ let menu =`
 ║➤ *Numero del creador:* *wa.me/18178659441 (No Bot)*
 ║➤ *Numero del sub bot oficial wa.me/595983186566 (EL SANTI SUB BOT OFICIAL Y EX ACTOR NOPOR)*
 ║➤ *Numero del Bot oficial:* *wa.me/523931806576 (OFICAL DE AGROMOS SP)*
-║➤ *Numero del Bot oficial²:* *wa.me/524777935604 (ALEX BOT OFICIAL)²*
+║➤ *Numero del Bot oficial²:* *wa.me/524777935604 (AXEL BOT OFICIAL)²*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
