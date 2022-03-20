@@ -56,10 +56,6 @@ let menu =`
 ┣ ➬🔞 _${usedPrefix}yaoigif_
 ┣ ➬🔞 _${usedPrefix}yurigif_
 ┣ ➬🔞 _${usedPrefix}nsfwloli_
-┣ ➬🔞 _${usedPrefix}pornovideo_
-┣ ➬🔞 _${usedPrefix}pornovidgay_
-┣ ➬🔞 _${usedPrefix}pornolesbivid_
-┣ ➬🔞 _${usedPrefix}pornobivid_
 ┗━━━━━━━━━━━━━┛`.trim()
 let mentionedJid = [who]
 conn.sendButtonImg(m.chat, pp, menu, 'AGROMOS SP - Bot', '𝕄 𝔼 ℕ 𝕌   ℙ ℝ 𝕀 ℕ ℂ 𝕀 ℙ 𝔸 𝕃', `#menu`, m, false, { contextInfo: { mentionedJid }})   
