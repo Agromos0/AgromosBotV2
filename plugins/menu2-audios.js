@@ -75,7 +75,9 @@ let str = `
 ° ➬🔊  _Basado_
 ° ➬🔊  _Tengo los calzones del admin_
 ° ➬🔊  _Estoy triste_
-
+° ➬🔊  _Audio Hentai_
+° ➬🔊  _Navidad_
+° ➬🔊  _Adios_
 *_「 💚A̶G̶R̶O̶M̶O̶S̶ S̶P̶-̶B̶O̶T̶💚  」_*`.trim()
 let mentionedJid = [who]
 conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
