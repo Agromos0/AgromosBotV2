@@ -1,7 +1,7 @@
 const axios = require('axios')
 let split = '|'
 let handler = async (m, { conn, args: [effect], text: txt, usedPrefix, command, name }) => {
-if (!effect) throw '*[❗] ¿Como usar este comando?*\n_#logo (efecto) (texto)_\n*Ejemplo:*\n_#logo 3d-deep-sea-metal Shadow_\n\n*[❗] Algunas veces le dira que falta otro texto, el uso seria el siguiente:*\n_#logo (efecto) (texto1|texto2)_\n*Ejemplo:*\n_#logo Wolf-Logo-Galaxy Shadow|Brokers_\n\n*_<LISTA DE EFECTOS/>_*\n\n° ඬ⃟📝 #logo ' + effects.map(v => v.title).join('\n° ඬ⃟📝 #logo ')
+if (!effect) throw '*[❗] ¿Como usar este comando?*\n_#logo (efecto) (texto)_\n*Ejemplo:*\n_#logo 3d-deep-sea-metal agromos_\n\n*[❗] Algunas veces le dira que falta otro texto, el uso seria el siguiente:*\n_#logo (efecto) (texto1|texto2)_\n*Ejemplo:*\n_#logo Wolf-Logo-Galaxy agromos|SpBot_\n\n*_<LISTA DE EFECTOS/>_*\n\n° ඬ⃟📝 #logo ' + effects.map(v => v.title).join('\n° ඬ⃟📝 #logo ')
   effect = effect.toLowerCase()
   if (!effects.find(v => (new RegExp(v.title, 'gi')).test(effect))) throw `*[❗] El efecto ${effect} no se encuentra en la base de datos*`
   let text = txt.replace(new RegExp(effect, 'gi'), '').trimStart()
