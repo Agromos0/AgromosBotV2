@@ -3,21 +3,21 @@ let fetch = require("node-fetch");
 let handler = async (m, { conn, text, usedPrefix, command }) => {
   if (!text)
     throw `
-*[❗] Uso correcto:*    
+*[✔] Uso correcto:*    
 *${usedPrefix}${command} opción*
 
 *Ejemplo de uso:*
 *${usedPrefix}${command} dog*\n
 *┌〔 OPCIONES 〕*
-*├* _dog_
-*├* _cat_
-*├* _panda_
-*├* _fox_
-*├* _red_panda_
+*├* _dog🐶_
+*├* _cat😾_
+*├* _panda🐼_
+*├* _fox🦊_
+*├* _red_panda🐼_
 *├* _koala_
 *├* _birb_
-*├* _raccoon_
-*├* _kangaroo_
+*├* _raccoon🦝_
+*├* _kangaroo🦘_
 *└────*
 `.trim();
   let res = await fetch(
