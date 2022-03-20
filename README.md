@@ -52,7 +52,7 @@ excesivamente lento (depende del WhatsApp igual)
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 
 
-[![AGROMOS SP](https://github.com/Agromos0/AgromosBotV2 
+[![AGROMOS SP](https://github.com/Agromos0/AgromosBotV2.png?size=100)](https://github.com/Agromos0/AgromosBotV2)
 ```bash
 `Agromos sp - Bot ___ By agromos` 
 ```
