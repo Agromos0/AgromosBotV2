@@ -43,6 +43,11 @@ let menu =`
 ┣ ➱🔰 _Codigos para audios_
 ┣ ➱🔰 _Términos y condiciones_
 ┗━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━┓
+*REGLAS*
+_______________________________
+┣ ➬❗ _${usedPrefix}reglas_
+┗━━━━━━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 
 ┃ *<REPORTA FALLOS EN ALGÚN COMANDO/>*
@@ -192,6 +197,14 @@ let menu =`
 ┏━━━━━━━━━━━━━┓
 ┃ *<RANDOM|EXTRAS/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┣ ➱💎 _${usedPrefix}doremon_
+┣ ➱⚜ _${usedPrefix}yeni_
+┣ ➱💎 _${usedPrefix}jiso_
+┣ ➱⚜ _${usedPrefix}pugb_
+┣ ➱💎 _${usedPrefix}rose_
+┣ ➱⚜ _${usedPrefix}fondogaming_
+┣ ➱💎 _${usedPrefix}fondoaesthetic_
+┣ ➱⚜ _${usedPrefix}fondomontaña_
 ┣ ➱💎 _${usedPrefix}frase_
 ┣ ➱⚜ _${usedPrefix}futbol_
 ┣ ➱💎 _${usedPrefix}Messi_
