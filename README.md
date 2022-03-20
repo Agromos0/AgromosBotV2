@@ -50,7 +50,9 @@ de esa cantidad el Bot empieza a ir
 excesivamente lento (depende del WhatsApp igual)
 ```
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![AGROMOS SP] 
+
+
+[![AGROMOS SP](https://github.com/Agromos0/AgromosBotV2 
 ```bash
 `Agromos sp - Bot ___ By agromos` 
 ```
