@@ -11,51 +11,55 @@ let vn = './media/mariana.mp3'
 let menu =`
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *✨𝗛ola, ${username}!!*
+║➤ *💚𝗛ola, ${username}💚*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
 ┃ *<MENU +18/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟🔞 _${usedPrefix}video_
-┣ ඬ⃟🔞 _${usedPrefix}imglesbians_
-┣ ඬ⃟🔞 _${usedPrefix}porno_
-┣ ඬ⃟🔞 _${usedPrefix}randomnsfw_
-┣ ඬ⃟🔞 _${usedPrefix}pornogif_
-┣ ඬ⃟🔞 _${usedPrefix}sideboobs_
-┣ ඬ⃟🔞 _${usedPrefix}hentai_
-┣ ඬ⃟🔞 _${usedPrefix}pene_
-┣ ඬ⃟🔞 _${usedPrefix}ecchi_
-┣ ඬ⃟🔞 _${usedPrefix}pussy_
-┣ ඬ⃟🔞 _${usedPrefix}boobs_
-┣ ඬ⃟🔞 _${usedPrefix}panties_
-┣ ඬ⃟🔞 _${usedPrefix}nekogif_
-┣ ඬ⃟🔞 _${usedPrefix}porno2_
-┣ ඬ⃟🔞 _${usedPrefix}yaoi_
-┣ ඬ⃟🔞 _${usedPrefix}yuri_
-┣ ඬ⃟🔞 _${usedPrefix}yaoigif_
-┣ ඬ⃟🔞 _${usedPrefix}yurigif_
-┣ ඬ⃟🔞 _${usedPrefix}pack_
-┣ ඬ⃟🔞 _${usedPrefix}pack2_
-┣ ඬ⃟🔞 _${usedPrefix}pack3_
-┣ ඬ⃟🔞 _${usedPrefix}loli2_
-┣ ඬ⃟🔞 _${usedPrefix}muslos_
-┣ ඬ⃟🔞 _${usedPrefix}muslitos_
-┣ ඬ⃟🔞 _${usedPrefix}booty_
-┣ ඬ⃟🔞 _${usedPrefix}htrap_
-┣ ඬ⃟🔞 _${usedPrefix}furro_
-┣ ඬ⃟🔞 _${usedPrefix}nsfwass_
-┣ ඬ⃟🔞 _${usedPrefix}bdsm_
-┣ ඬ⃟🔞 _${usedPrefix}cum_
-┣ ඬ⃟🔞 _${usedPrefix}ero_
-┣ ඬ⃟🔞 _${usedPrefix}femdom_
-┣ ඬ⃟🔞 _${usedPrefix}foot_
-┣ ඬ⃟🔞 _${usedPrefix}pies_
-┣ ඬ⃟🔞 _${usedPrefix}glass_
-┣ ඬ⃟🔞 _${usedPrefix}yuri_
-┣ ඬ⃟🔞 _${usedPrefix}yaoigif_
-┣ ඬ⃟🔞 _${usedPrefix}yurigif_
-┣ ඬ⃟🔞 _${usedPrefix}nsfwloli_
+┣ ➬🔞 _${usedPrefix}video_
+┣ ➬🔞 _${usedPrefix}imglesbians_
+┣ ➬🔞 _${usedPrefix}porno_
+┣ ➬🔞 _${usedPrefix}randomnsfw_
+┣ ➬🔞 _${usedPrefix}pornogif_
+┣ ➬🔞 _${usedPrefix}sideboobs_
+┣ ➬🔞 _${usedPrefix}hentai_
+┣ ➬🔞 _${usedPrefix}pene_
+┣ ➬🔞 _${usedPrefix}ecchi_
+┣ ➬🔞 _${usedPrefix}pussy_
+┣ ➬🔞 _${usedPrefix}boobs_
+┣ ➬🔞 _${usedPrefix}panties_
+┣ ➬🔞 _${usedPrefix}nekogif_
+┣ ➬🔞 _${usedPrefix}porno2_
+┣ ➬🔞 _${usedPrefix}yaoi_
+┣ ➬🔞 _${usedPrefix}yuri_
+┣ ➬🔞 _${usedPrefix}yaoigif_
+┣ ➬🔞 _${usedPrefix}yurigif_
+┣ ➬🔞 _${usedPrefix}pack_
+┣ ➬🔞 _${usedPrefix}pack2_
+┣ ➬🔞 _${usedPrefix}pack3_
+┣ ➬🔞 _${usedPrefix}loli2_
+┣ ➬🔞 _${usedPrefix}muslos_
+┣ ➬🔞 _${usedPrefix}muslitos_
+┣ ➬🔞 _${usedPrefix}booty_
+┣ ➬🔞 _${usedPrefix}htrap_
+┣ ➬🔞 _${usedPrefix}furro_
+┣ ➬🔞 _${usedPrefix}nsfwass_
+┣ ➬🔞 _${usedPrefix}bdsm_
+┣ ➬🔞 _${usedPrefix}cum_
+┣ ➬🔞 _${usedPrefix}ero_
+┣ ➬🔞 _${usedPrefix}femdom_
+┣ ➬🔞 _${usedPrefix}foot_
+┣ ➬🔞 _${usedPrefix}pies_
+┣ ➬🔞 _${usedPrefix}glass_
+┣ ➬🔞 _${usedPrefix}yuri_
+┣ ➬🔞 _${usedPrefix}yaoigif_
+┣ ➬🔞 _${usedPrefix}yurigif_
+┣ ➬🔞 _${usedPrefix}nsfwloli_
+┣ ➬🔞 _${usedPrefix}pornovideo_
+┣ ➬🔞 _${usedPrefix}pornovidgay_
+┣ ➬🔞 _${usedPrefix}pornolesbivid_
+┣ ➬🔞 _${usedPrefix}pornobivid_
 ┗━━━━━━━━━━━━━┛`.trim()
 let mentionedJid = [who]
 conn.sendButtonImg(m.chat, pp, menu, 'AGROMOS SP - Bot', '𝕄 𝔼 ℕ 𝕌   ℙ ℝ 𝕀 ℕ ℂ 𝕀 ℙ 𝔸 𝕃', `#menu`, m, false, { contextInfo: { mentionedJid }})   
