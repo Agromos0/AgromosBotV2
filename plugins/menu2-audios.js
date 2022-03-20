@@ -74,6 +74,7 @@ let str = `
 ° ➬🔊  _pero esto_
 ° ➬🔊  _Basado_
 ° ➬🔊  _Tengo los calzones del admin_
+° ➬🔊  _Estoy triste 
 
 *_「 💚A̶G̶R̶O̶M̶O̶S̶ S̶P̶-̶B̶O̶T̶💚  」_*`.trim()
 let mentionedJid = [who]
