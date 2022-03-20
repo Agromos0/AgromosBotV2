@@ -19,7 +19,7 @@
 > apt install ffmpeg -y
 > apt install imagemagick -y
 > https://github.com/Agromos0/AgromosBotV1
-> cd ShadowBotV3
+> cd AgromosBotV1
 > npm install
 > npm install -g npm@8.5.3
 > npm update
