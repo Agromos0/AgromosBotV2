@@ -54,3 +54,5 @@ excesivamente lento (depende del WhatsApp igual)
 ```bash
 `Agromos sp - Bot ___ By agromos` 
 ```
+💚AGREDIMIEMTOS
+[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino)
