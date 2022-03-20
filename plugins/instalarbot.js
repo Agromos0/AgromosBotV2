@@ -1,5 +1,5 @@
 let handler = async m => m.reply(`
-*◄┢┅͜͡✇⟬↯ື ►ஜ۩💥۩ஜ◄ ↯ື⟭✇͜͡┅┧►*
+*◄INSTALACIÓN DEL BOT AGROMOS SP*
 
 *VIDEO TUTORIAL: Escríbeme al WhatsApp wa.me/18178659441* 
 
@@ -11,7 +11,8 @@ let handler = async m => m.reply(`
 ➤ 2 teléfonos o un 1 teléfono y una PC (es temporal - solo para escanear un código QR)
 
 💥 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 💥
-➤ https://github.com/Agromos0/ShadowBotV3
+➤ https://github.com/Agromos0/AgromosBotV2
+
 
 💥 𝐀𝐑𝐄𝐀 𝐃𝐄 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 💥
 ➤ Termux: https://f-droid.org/en/packages/com.termux/
@@ -23,8 +24,8 @@ let handler = async m => m.reply(`
 ➤ apt install nodejs -y
 ➤ apt install ffmpeg -y
 ➤ apt install imagemagick -y
-➤ https://github.com/Agromos0/ShadowBotV3
-➤ cd ShadowBotV3
+➤ https://github.com/Agromos0/AgromosBotV2
+➤ cd AgromosBotV2
 ➤ npm install
 ➤ npm install -g npm@8.4.0
 ➤ npm update
@@ -32,13 +33,13 @@ let handler = async m => m.reply(`
 ° Escaneas el código QR tienes 30 segundos para hacerlo
 
 💥 INFO EXTRA 💥
-➤ Se sugiere leer el archivo README.md 
+➤ Se sugiere pedir ayuda por cualquier inconveniente 
 ➤ Para habilitar el /añadir y el /sacar usa #enable autoread
 - Puede ocasionar que el numero se vaya a soporte 
 ➤ PayPal para apoyo voluntario: toxicoyt084@gmail.com 
-➤ Numero de ayuda durante la instalacion: wa.me/523931806576 (No Bot, solo ayuda durante la instalación)
+➤ Numero de ayuda durante la instalacion: wa.me/18178659441 (No Bot, solo ayuda durante la instalación)
 
-*◄┢┅͜͡✇⟬↯ື ►ஜ۩💥۩ஜ◄ ↯ື⟭✇͜͡┅┧►*
+*◄💚⚡💚⚡💚⚡►*
 `.trim()) 
 handler.help = ['instalarbot']
 handler.tags = ['info']
