@@ -4,9 +4,9 @@ let mentionedJid = [who]
 conn.send3Button(m.chat, `
 *ミ💚 Hola estimado usuario 💚彡*
 
-*ミ😈 Estado del Bot 👻彡*
-*=> Bot activo ✔️*
-*=> Bot uso público ✔️*
+*ミ😈 Estado del bot 😈彡*
+*=> Bot activa para tus servicios😈🔥*
+*=> Bot  para cualquier uso😹💚*
 `.trim(), 'AGROMOS SP - Bot', '🔵 MENÚ 🔵', `${usedPrefix}menu`, '🔴 MENÚ SIMPLE 🔴', `${usedPrefix}menusimple`, '🟡 MENÚ AUDIOS 🟡', `${usedPrefix}menuaudios`, m, false, { contextInfo: { mentionedJid }})}
 handler.command = /^(estado|status|estate|state|stado|stats)$/i
 module.exports = handler
