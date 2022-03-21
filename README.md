@@ -59,5 +59,8 @@ excesivamente lento (depende del WhatsApp igual)
 ###💚AGREDIMIEMTOS
 
 
+[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+
+ 
 
 [![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino)
