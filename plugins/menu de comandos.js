@@ -14,17 +14,17 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 let username = conn.getName(who)
 //let vn = './media/mariana.mp3'
 let menu =`
-╭══〘 💚⚡💚⚡💚⚡💚⚡💚 〙═╮
+╭══〘 💚⚡💚⚡💚⚡💚 〙═╮
 ║═ *𝐴𝐺𝑅𝑂𝑀𝑂𝑆 𝑆𝑃-𝐵𝑂𝑇*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *💚𝗛ola, ${username}💚*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *Creador del Bot: AGROMOS SP👑* 
+║➤ *Creador del Bot: AGROMOS SP* 
 ║➤ *Numero del creador:* *wa.me/18178659441 (No Bot)*
 ║➤ *Numero del sub bot oficial wa.me/595983186566 (EL SANTI SUB BOT OFICIAL Y EX ACTOR NOPOR)*
 ║➤ *Numero del Bot oficial:* *wa.me/523931806576 (OFICAL DE AGROMOS SP)*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-╰══╡✯💚⚡💚⚡💚⚡💚⚡💚╞══╯
+╰══╡💚⚡💚⚡💚⚡💚╞══╯
 ┏━━━━━━━━━━━━━┓
 ┃ *<INFORMACIÓN|MENUS/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
