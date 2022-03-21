@@ -1,4 +1,4 @@
-# **🔥𝐴𝐺𝑅𝑂𝑀𝑂𝑆 𝑆𝑃-𝐵𝑂𝑇 - 𝗕𝗼𝘁🔥**
+# **💚Hola bienvenido al repositorio del bot agromos sp💚 me puedes ayudardándole en la estrellita gracias💚👻_**
 ### `Si necesitas ayuda mandame mensaje`
 <a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 ### `Unete a los grupos oficales para conocer novedades del Bot`
@@ -41,11 +41,11 @@ config.js
 > cd AgromosBotV1
 > npm start 
 
-> cada vez que realices una modificacion en el
+✅ cada vez que realices una modificacion en el
 repositorio del Bot (tu GitHub), puedes usar 
 el comando #actualizar para que se actualicen los datos
 
-> Aconsejable maximo 40 grupos, despues 
+✅Aconsejable maximo 40 grupos, despues 
 de esa cantidad el Bot empieza a ir 
 excesivamente lento (depende del WhatsApp igual)
 ```
