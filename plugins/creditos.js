@@ -10,6 +10,16 @@ THE SHADOW BROKERS
 🔰Gata nina
 𝐺𝐴𝑇𝐴 𝐵𝑂𝑇
 ╰═════• 💚⚡💚⚡💚 •═════╯
+.trim() .
+//¡GRACIAS!
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '💚agromos💚', 'status@broadcast')
+}
+handler.command = /^(creditos|CREDITOS|Creditos|Credito|Crédito)$/i
+
+module.exports = handler
+🔰Gata nina
+𝐺𝐴𝑇𝐴 𝐵𝑂𝑇
+╰═════• 💚⚡💚⚡💚 •═════╯
 .trim() 
 //¡GRACIAS!
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '💚agromos💚', 'status@broadcast')
