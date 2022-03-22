@@ -1,6 +1,6 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = 
-╭═════• ೋ•✧๑♡๑✧•ೋ •═════╮ 
+╭═════• 💚⚡💚⚡💚 •═════╮ 
 
 *agromos sp por agromos sp-bot  tiene funciones que pertenezcan a las siguentes Empresa(s)|Organizacion(es)|Persona(s):*
 
