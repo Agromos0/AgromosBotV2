@@ -17,11 +17,10 @@ let menu =`
 ┏━━━━━━━━━━━━━┓
 ┃ *<MENU +18/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ➬🔞 _${usedPrefix}video_
+┃   *🥵🔥  IMAGENES🥵🔥*
 ┣ ➬🔞 _${usedPrefix}imglesbians_
 ┣ ➬🔞 _${usedPrefix}porno_
 ┣ ➬🔞 _${usedPrefix}randomnsfw_
-┣ ➬🔞 _${usedPrefix}pornogif_
 ┣ ➬🔞 _${usedPrefix}sideboobs_
 ┣ ➬🔞 _${usedPrefix}hentai_
 ┣ ➬🔞 _${usedPrefix}pene_
@@ -29,12 +28,9 @@ let menu =`
 ┣ ➬🔞 _${usedPrefix}pussy_
 ┣ ➬🔞 _${usedPrefix}boobs_
 ┣ ➬🔞 _${usedPrefix}panties_
-┣ ➬🔞 _${usedPrefix}nekogif_
 ┣ ➬🔞 _${usedPrefix}porno2_
 ┣ ➬🔞 _${usedPrefix}yaoi_
 ┣ ➬🔞 _${usedPrefix}yuri_
-┣ ➬🔞 _${usedPrefix}yaoigif_
-┣ ➬🔞 _${usedPrefix}yurigif_
 ┣ ➬🔞 _${usedPrefix}pack_
 ┣ ➬🔞 _${usedPrefix}pack2_
 ┣ ➬🔞 _${usedPrefix}pack3_
@@ -53,9 +49,23 @@ let menu =`
 ┣ ➬🔞 _${usedPrefix}pies_
 ┣ ➬🔞 _${usedPrefix}glass_
 ┣ ➬🔞 _${usedPrefix}yuri_
-┣ ➬🔞 _${usedPrefix}yaoigif_
-┣ ➬🔞 _${usedPrefix}yurigif_
 ┣ ➬🔞 _${usedPrefix}nsfwloli_
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┃  *VIDEOS🥵🔥*
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┣ ➬🔞 _${usedPrefix}video_
+┣ ➬🔞 _${usedPrefix}pornovideo/pornovid_
+┣ ➬🔞 _${usedPrefix}pornogayv_
+┣ ➬🔞 _${usedPrefix}pornolesvid_
+┣ ➬🔞 _${usedPrefix}pornobisexualvid|pornovid
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┃  *STICKERS🥵🔥*
+┣ ➬🔞 _${usedPrefix}pornogif_
+┣ ➬🔞 _${usedPrefix}porno2_
+┣ ➬🔞 _${usedPrefix}yaoigif_
+┣ ➬🔞 _${usedPrefix}nekogif_
+┣ ➬🔞 _${usedPrefix}yurigif_
+
 ┗━━━━━━━━━━━━━┛`.trim()
 let mentionedJid = [who]
 conn.sendButtonImg(m.chat, pp, menu, 'AGROMOS SP - Bot', '𝕄 𝔼 ℕ 𝕌   ℙ ℝ 𝕀 ℕ ℂ 𝕀 ℙ 𝔸 𝕃', `#menu`, m, false, { contextInfo: { mentionedJid }})   
