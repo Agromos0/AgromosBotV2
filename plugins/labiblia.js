@@ -51,7 +51,7 @@ let menu =`
 ┣ ➬🔞 _${usedPrefix}yuri_
 ┣ ➬🔞 _${usedPrefix}nsfwloli_
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┃  *VIDEOS🥵🔥*
+┃  *VIDEOS🥵🔥 ❗DATO PUEDE TARDAR HASTA 5 MIN EN ENVIARLO SON VIDEOS DE MAS DE 6 MIN❗🥵🔥*
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ➬🔞 _${usedPrefix}video_
 ┣ ➬🔞 _${usedPrefix}pornovideo/pornovid_
