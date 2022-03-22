@@ -8,6 +8,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /menu|Menu/i 
+handler.customPrefix = /#menu|Menu/i 
 handler.command = new RegExp
 module.exports = handler
