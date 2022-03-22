@@ -1,16 +1,16 @@
 # **💚Hola bienvenido al repositorio del bot agromos sp💚 me puedes ayudardándole en la estrellita gracias💚👻_**
-### `Si necesitas ayuda mandame mensaje`
+### `💚Si necesitas ayuda mandame mensaje sobre la instalación💚`
 <a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 ### `Unete a los grupos oficales para conocer novedades del Bot`
 [![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JiONzKmPvB25su65XzAbqA)
 ### `AJUSTES`
-- NUMERO DEL PROPIETARIO <a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+- ❗NUMERO DEL PROPIETARIO❗ <a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 
 
-### `Video tutorial para instalar el Bot`
+### `Si necesitas  video de instalación aqui💚`
 <a href="http://wa.me/523931806576" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 
-### `INSTALACION TERMUX`
+### `INSTALACION DEL BOT AGROMOS DESDE TERMUX`
 ```bash
 > termux-setup-storage
 > apt update && apt upgrade -y -y
@@ -18,14 +18,14 @@
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> https://github.com/Agromos0/AgromosBotV1
+> https://github.com/Agromos0/AgromosBotV2
 > cd AgromosBotV2
 > npm install
 > npm install -g npm@8.5.3
 > npm update
 > npm start
 ```
-### `NOTAS`
+### `NOTA IMPORTANTE❗`
 ```bash
 > Para activar algunos comandos como 
 el #añadir y #sacar el propietario del 
