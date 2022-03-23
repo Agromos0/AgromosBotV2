@@ -8,7 +8,9 @@
 
 
 ### `Si necesitas  video de instalación aqui💚`
-<a href="http://wa.me/523931806576" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+### `Video tutorial para instalar el Bot`
+<a href="https://youtu.be/pZQqL51epBY"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
+> Dar click en la imagen para redireccionarlos a YouTube
 
 ### `INSTALACION DEL BOT AGROMOS DESDE TERMUX`
 ```bash
