@@ -1,4 +1,9 @@
 # **💚Hola bienvenido al repositorio del bot agromos sp💚 me puedes ayudardándole en la estrellita gracias💚👻_**
+
+<div align="center">
+<img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="HisokaBot" width="500" />
+
+
 ### `💚Si necesitas ayuda mandame mensaje sobre la instalación💚`
 <a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 ### `Unete a los grupos oficales para conocer novedades del Bot`
