@@ -12,6 +12,8 @@
 ### `AJUSTES`
 - ❗NUMERO DEL PROPIETARIO❗ <a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 
+**Necesitamos que nos DONES lo que puedas donar  para comprar  un mejor servidor y el bot este activo 24/7 https://paypal.me/dotacionesdelbotagro?country.x=MX&locale.x=es_XC**
+
 [WhatsApp-Recomendado](https://download853.mediafire.com/xawpdplr7wvg/u133oxjqtiry52t/%E2%9E%A2+SOLITARIO+BUSINESS+%E2%9E%A2_2.21.19.21.apk)
 <toca el link y te mandara directamente a mediafire 
 cada que el link del WhatsApp recomendado deje de funcionar reportar para restablecer 
