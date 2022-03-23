@@ -1,7 +1,7 @@
 # **💚Hola bienvenido al repositorio del bot agromos sp💚 me puedes ayudardándole en la estrellita gracias💚👻_**
 
 <div align="center">
-<img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="HisokaBot" width="500" />
+<img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="agromosSpbot" width="500" />
 
 
 ### `💚Si necesitas ayuda mandame mensaje sobre la instalación💚`
