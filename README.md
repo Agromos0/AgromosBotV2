@@ -82,3 +82,7 @@ Gata nina
 Bruno Sobrino 
 
 [![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino)
+
+
+<img src="https://github.com/NeKosmic/NK-BOT/blob/main/culebrita.svg" />
+</div>
