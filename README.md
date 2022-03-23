@@ -1,4 +1,4 @@
-# **💚Hola bienvenido al repositorio del bot agromos sp💚 me puedes ayudardándole en la estrellita gracias💚👻_**
+**💚Hola bienvenido al repositorio del bot agromos sp💚 me puedes ayudardándole en la estrellita gracias💚👻_**
 
 <div align="center">
 <img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="agromosSpbot" width="500" />
