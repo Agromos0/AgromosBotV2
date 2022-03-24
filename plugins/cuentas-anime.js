@@ -9,6 +9,9 @@ let info = `
 *🙀💚correo:toxicoyt084@gmail.com*
 Contraseña:BotAgromosSp
  
+*Data*
+Fecha de cuenta agregada:24/3/22
+Vencimiento:14 días restantes 
 
 Pronto  nuevas cuentas aparecerán aquí😼💚
 ╰═════• 💚⚡💚 •═════╯
