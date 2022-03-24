@@ -44,6 +44,11 @@ let menu =`
 ┣ ➱🔰 _Términos y condiciones_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
+┃Cuentas anime ver premiun
+┣ ➬🙀💚 _${usedPrefix}cuentasanime
+┗━━━━━━━━━━━━━┛
+
+┏━━━━━━━━━━━━━┓
 ┃*colaboraciónes del bot agromos sp*
 ┣ ➱🔰 _${usedPrefix}creditos_
 ┗━━━━━━━━━━━━━┛
