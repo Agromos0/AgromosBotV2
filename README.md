@@ -53,7 +53,7 @@ config.js
 > npm start 
 
 > Si el termux se cierra para volver activar escribe:
-> cd AgromosBotV1
+> cd AgromosBotV2
 > npm start 
 
 ✅ cada vez que realices una modificacion en el
