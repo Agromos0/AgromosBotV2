@@ -44,9 +44,13 @@ let menu =`
 ┣ ➱🔰 _Términos y condiciones_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
-┃Cuentas anime ver premiun
-┣ ➬🙀💚 _${usedPrefix}cuentasanime
+┣ ➱Dato cada semana se agrega una nueva
+┃ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┃ *😳💚cuentas anime ver premiun*
+┣ *_${usedPrefix}cuentasanime*
 ┣ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┃➬ *😳💚cuentas spotify premiun*
+┣➬ *_${usedPrefix}cuentaspotify*
 ┗━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━┓
