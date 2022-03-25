@@ -2,7 +2,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `
 ╭═════• 💚⚡💚 •═════╮ 
 
-*Escuchar espotify premiun gratis premiun durante 30 dias|Te pedimos que no cambies nada:*
+*Escuchar spotify premiun gratis premiun durante 30 dias|Te pedimos que no cambies nada:*
 
  🔰nombre  de la apk SPOTIFY descargala en la play store 🔰
 
@@ -11,7 +11,7 @@ Contraseña:BotAgromos
  
 *Data*
 Fecha de cuenta agregada:25/03/22
-Vencimiento:25 de abril del 2022
+Vencimiento:25/04/22
 
 Pronto  nuevas cuentas aparecerán aquí😼💚
 ╰═════• 💚⚡💚 •═════╯
@@ -19,6 +19,6 @@ Pronto  nuevas cuentas aparecerán aquí😼💚
 //¡GRACIAS!
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '💚agromosSP', 'status@broadcast')
 }
-handler.command = /^(cuentaspotify|CUENTASPOTIFY|spotify|ESPOTIFY)$/i
+handler.command = /^(cuentaspotify|CUENTASPOTIFY|ESPOTIFY|espotify|escucharspotify)$/i
 
 module.exports = handler
