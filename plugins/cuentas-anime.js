@@ -11,7 +11,7 @@ Contraseña:BotAgromosSp
  
 *Data*
 Fecha de cuenta agregada:24/03/22
-Vencimiento:14 días restantes 
+Vencimiento:13 días restantes 
 
 Pronto  nuevas cuentas aparecerán aquí😼💚
 ╰═════• 💚⚡💚 •═════╯
