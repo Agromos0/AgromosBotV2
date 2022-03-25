@@ -1,7 +1,7 @@
 const { MessageType } = require('@adiwajshing/baileys')
 
 let handler = async(m, { conn, text }) => {
-    if (!text) return conn.reply(m.chat, '*_Ingrese un reporte_*\n\n*_Ejemplo:_*\n*_#report El comando #owner tiene fallos, no manda el numero del creador_*', m)
+    if (!text) return conn.reply(m.chat, '*_Ingrese un reporte_*\n\n*_Ejemplo:_*\n*_#report El comando #agromos tiene fallos, no manda el numero del creador_*', m)
     if (text > 300) return conn.reply(m.chat, 'Lo siento, el texto es demasiado largo, máximo 300 caracteres', m)
     var nomor = m.sender
     const teks1 = `*_❒═════[REPORTE]═════╾❒_*\n*_┬_*\n*_├Numero: wa.me/${nomor.split("@s.whatsapp.net")[0]}_*\n*_┴_*\n*_┬_*\n*_├Mensaje: ${text}_*\n*_┴_*`
