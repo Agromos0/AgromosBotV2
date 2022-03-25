@@ -33,6 +33,10 @@ let str = `
 ┣ ඬ⃟ℹ️ _¿Qué es un Bot?_
 ┣ ඬ⃟ℹ️ _Codigos para audios_
 ┣ ඬ⃟ℹ️ _Términos y condiciones_
+┣ ➱❗_${usedPrefix}reglas_
+┣ ➱🔰_${usedPrefix}creditos_
+┣ ➱😳💚_${usedPrefix}cuentasanime_
+┣ ➱😳💚_${usedPrefix}cuentaspotify_
 ┣ ඬ⃟📬 _${usedPrefix}bug_
 ┣ ඬ⃟📬 _${usedPrefix}report_
 ┣ ඬ⃟🤖 _${usedPrefix}join_ 
