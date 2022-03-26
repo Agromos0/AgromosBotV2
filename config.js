@@ -58,7 +58,7 @@ global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = 'Agromos sp - Bot'
 
 
-global.wm = '©The Shadow Brokers - Bot'
+global.wm = 'agromos sp - Bot'
 global.wait = '*Espere un momento..*'
 
 
