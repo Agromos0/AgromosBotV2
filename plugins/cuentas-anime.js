@@ -7,11 +7,11 @@ let info = `
  🔰nombre  de la apk Crunchyroll descargala en la play store 🔰
 
 *🙀💚correo:toxicoyt084@gmail.com*
-Contraseña:BotAgromosSp
+Contraseña:BotAgromos2001
  
 *Data*
 Fecha de cuenta agregada:24/03/22
-Vencimiento:13 días restantes 
+Vencimiento:12 días restantes 
 
 Pronto  nuevas cuentas aparecerán aquí😼💚
 ╰═════• 💚⚡💚 •═════╯
