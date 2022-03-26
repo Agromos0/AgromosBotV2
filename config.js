@@ -9,7 +9,7 @@ global.prems = ['5219996125657' , '5219991402134'] // No tiene utilidad
 // Nota: Puedes contactarme si necesitas ayuda con algo al +523931806576 (este es mi numero personal/real bloqueo personas que no sean temas de la instalación)
 // => Solo dudas sobre la instalación, temas generales contactarme al +18178659441 
 // => NO ayudo a hacer Bots, ni crearlos, ni editarlos 
-// - Haré tutoriales de como editar el Bot, los videos los podran encontrar en mi canal de YouTube en https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA
+// - Haré tutoriales de como editar el Bot, los videos los podran encontrar en mi canal de YouTube link lo paso en mi grupo ofical agromos sp
 
 global.APIs = { // API Prefix
   // name: 'https://website'
