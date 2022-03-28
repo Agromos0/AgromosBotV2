@@ -1,5 +1,5 @@
 let handler = async(m, { conn, usedPrefix, command }) => {
-await conn.sendButtonVid(m.chat, pickRandom(asupan), '🔥🔥🔥🔥', 'agromos bot', 'SIGUIENTE 🔄🥵', `${usedPrefix + command}`, m, false)
+await conn.sendButtonVid(m.chat, pickRandom(asupan), '🔥🔥🔥🔥', 'Gata Dios', 'SIGUIENTE 🔄🥵', `${usedPrefix + command}`, m, false)
 }
 handler.command = /^(pornolesbivid|pornolesbianavid|pornolesbiv|pornolesbianav|Pornolesbivid|Pornolesbianavid|pornolesv|Pornolesv)$/i
 module.exports = handler
@@ -10,6 +10,7 @@ function pickRandom(list) {
 
 const asupan = [
 "https://l.top4top.io/m_2257y4pyl0.mp4",
+"https://c.top4top.io/m_2274woesg0.mp4",
 "https://k.top4top.io/m_2257pdwjy0.mp4",
 "https://a.top4top.io/m_2257qulmx0.mp4",
 "https://a.top4top.io/m_2257vxzr62.mp4",
