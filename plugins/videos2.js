@@ -1,5 +1,6 @@
+
 let handler = async(m, { conn, usedPrefix, command }) => {
-await conn.sendButtonVid(m.chat, pickRandom(asupan), '🔥🔥🔥🔥', 'Agromos bot', 'SIGUIENTE 🔄🥵', `${usedPrefix + command}`, m, false)
+await conn.sendButtonVid(m.chat, pickRandom(asupan), '🔥🔥🔥🔥', 'AgromosBot', 'SIGUIENTE 🔄🥵', `${usedPrefix + command}`, m, false)
 }
 handler.command = /^(pornovid|pornovideo|Pornovid|Pornovideo|Pornvid|Ponrvid|pornvid|ponrvid|pornov)$/i
 module.exports = handler
@@ -10,6 +11,16 @@ function pickRandom(list) {
 
 const asupan = [
 "https://l.top4top.io/m_22572kvnt0.mp4",
+"https://a.top4top.io/m_22741bntt0.mp4",
+"https://g.top4top.io/m_2274ss8270.mp4",
+"https://h.top4top.io/m_22746h8370.mp4",
+"https://c.top4top.io/m_2274k1olx1.mp4",
+"https://k.top4top.io/m_2274iu8ph1.mp4",
+"https://c.top4top.io/m_2274813w23.mp4",
+"https://g.top4top.io/m_2274qzr5b5.mp4",
+"https://k.top4top.io/m_2274znr525.mp4",
+"https://j.top4top.io/m_22744mccx0.mp4",
+"https://g.top4top.io/m_2274dkhny3.mp4",
 "https://i.top4top.io/m_2257a87ov0.mp4", 
 "https://k.top4top.io/m_2257xoco60.mp4",
 "https://i.top4top.io/m_2257uqopw1.mp4",
