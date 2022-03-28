@@ -56,8 +56,9 @@ let menu =`
 ┣ ➬🔞 _${usedPrefix}video_
 ┣ ➬🔞 _${usedPrefix}pornovideo/pornovid_
 ┣ ➬🔞 _${usedPrefix}pornogayv_
-┣ ➬🔞 _${usedPrefix}pornolesvid_
+┣ ➬🔞 _${usedPrefix}pornolesbianav_
 ┣ ➬🔞 _${usedPrefix}pornobisexualvid|pornovid
+┣ ➬🔞 _${usedPrefix}pornoaleatorio_
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃  *STICKERS🥵🔥*
 ┣ ➬🔞 _${usedPrefix}pornogif_
