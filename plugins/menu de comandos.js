@@ -126,6 +126,7 @@ _______________________________
 ┏━━━━━━━━━━━━━┓
 ┃ *<DESCARGAS/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┣ ➱🔹️ _${usedPrefix}ytcomment_
 ┣ ➱🔹️ _${usedPrefix}imagen *texto*_
 ┣ ➱🔸️ _${usedPrefix}ytsearch *texto*_
 ┣ ➱🔹️ _${usedPrefix}dlaudio *link yt*_
