@@ -12,35 +12,37 @@ let { name, limit, exp, banned, lastclaim, registered, regTime, age, level } = g
 let { min, xp, max } = levelling.xpRange(level, global.multiplier)
 let username = conn.getName(who)
 let str = `
-╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
+╭══〘 💚⚡💚⚡💚 〙═╮
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *✨𝗛ola, ${username}!!*
+║➤ *💚𝗛ola, ${username}💚*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-╰══╡✯✯✯✯✯✯✯✯╞══╯
+╰══╡💚⚡💚⚡💚╞══╯
 ┏━━━━━━━━━━━━━┓
 ┃ *<MENU SIMPLE/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟ℹ️️ _${usedPrefix}sc_
-┣ ඬ⃟ℹ️️ _${usedPrefix}donar_
-┣ ඬ⃟ℹ️️ _${usedPrefix}infobot_
-┣ ඬ⃟ℹ️️ _${usedPrefix}grupos_
-┣ ඬ⃟ℹ️ _${usedPrefix}instalarbot_
-┣ ඬ⃟ℹ️ _${usedPrefix}menusimple_
-┣ ඬ⃟ℹ️️ _${usedPrefix}menuaudios_
-┣ ඬ⃟ℹ️️ _${usedPrefix}menu2_
-┣ ඬ⃟ℹ️️ _${usedPrefix}labiblia_
-┣ ඬ⃟ℹ️ _${usedPrefix}estado_
-┣ ඬ⃟ℹ️ _¿Qué es un Bot?_
-┣ ඬ⃟ℹ️ _Codigos para audios_
-┣ ඬ⃟ℹ️ _Términos y condiciones_
+┣ ➱⛔ _${usedPrefix}sc_
+┣ ➱⛔ _${usedPrefix}donar_
+┣ ➱⛔ _${usedPrefix}infobot_
+┣ ➱⛔ _${usedPrefix}grupos_
+┣ ➱⛔ _${usedPrefix}instalarbot_
+┣ ➱⛔ _${usedPrefix}menusimple_
+┣ ➱⛔ _${usedPrefix}menuaudios_
+┣ ➱⛔ _${usedPrefix}menu2_
+┣ ➱⛔ _${usedPrefix}labiblia_
+┣ ➱⛔ _${usedPrefix}estado_
+┣ ➱⛔ _¿Qué es un Bot?_
+┣ ➱⛔ _Codigos para audios_
+┣ ➱⛔ _Términos y condiciones_
 ┣ ➱❗_${usedPrefix}reglas_
-┣ ➱🔰_${usedPrefix}creditos_
-┣ ➱😳💚_${usedPrefix}cuentasanime_
-┣ ➱😳💚_${usedPrefix}cuentaspotify_
-┣ ඬ⃟📬 _${usedPrefix}bug_
-┣ ඬ⃟📬 _${usedPrefix}report_
-┣ ඬ⃟🤖 _${usedPrefix}join_ 
-┣ ඬ⃟🤖 _${usedPrefix}bots_
+┣ ➱🔹️ _${usedPrefix}ytcomment_
+┣ ➱🔰 _${usedPrefix}creditos_
+┣ ➱😳💚 _${usedPrefix}cuentasanime_
+┣ ➱😳💚 _$usedPrefix}cuentaspotify_
+┣ ➱♻️ _${usedPrefix}instalarbot_
+┣ ➱📬 _${usedPrefix}bug_
+┣ ➱📬 _${usedPrefix}report_
+┣ ➱🤖 _${usedPrefix}join_ 
+┣ ➱🤖 _${usedPrefix}bots_
 ┣ ඬ⃟🎖️ _${usedPrefix}top10gays_
 ┣ ඬ⃟🎖️ _${usedPrefix}toplind@s_
 ┣ ඬ⃟🎖️ _${usedPrefix}topput@s_
