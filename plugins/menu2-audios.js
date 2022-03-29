@@ -55,6 +55,7 @@ let str = `
 ° ➬🔊  _:c_
 ° ➬🔊  _a_
 ° ➬🔊  _ara ara_
+° ➬🔊  _te quiero bot_
 
 ❗LOS  SIGUIENTE  COMANDOS SON NUEVOS REPORTAR POR SI ALGUNO NO SIRVE EN #report
 ° ➬🔊  _Bien pesando woody_
