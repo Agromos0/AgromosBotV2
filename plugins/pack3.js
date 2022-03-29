@@ -3,7 +3,7 @@ let fetch = require('node-fetch')
 let handler = async (m, { conn }) => {
 	let url = packmen[Math.floor(Math.random() * packmen.length)]
 	await conn.sendMessage(m.chat, {
-		contentText: 'Pack xxx By ShadowBot',
+		contentText: 'Pack xxx By AgromosSp',
 		footerText: 'agromos sp - Bot',
 		buttons: [
 			{ buttonId: '.pack3', buttonText: { displayText: 'SIGUIENTE' }, type: 1 }
