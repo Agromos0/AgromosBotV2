@@ -2,8 +2,8 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn, usedPrefix }) => {
 let who = m.sender
-//let pp = await(await fetch('https://i.imgur.com/oHrJTtq.jpg')).buffer()
-//let kai = await(await fetch('https://i.imgur.com/oHrJTtq.jpg')).buffer()
+let pp = await(await fetch('https://i.imgur.com/oHrJTtq.jpg')).buffer()
+let kai = await(await fetch('https://i.imgur.com/oHrJTtq.jpg')).buffer()
 let text = `*https://github.com/Agromos0/AgromosBotV2*`.trim()
 conn.reply(m.chat, text, m, { thumbnail: kai, contextInfo: {
 mentionedJid: [who],
