@@ -1,3 +1,4 @@
+
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 const { servers, yta, ytv } = require('../lib/y2mate')
 let yts = require('yt-search')
@@ -31,7 +32,7 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
 *🔥 Titulo:* _${title}_
 *📂 Peso del audio:* _${filesizeF}_
 *📂 Peso del video:* _${yt2.filesizeF}_
-`.trim(), '𝐴𝐺𝑅𝑂𝑀𝑂𝑆 𝑆𝑃-𝐵𝑂𝑇', '🎵 AUDIO 💽 ', `.yta ${vid.url}`, '🎥 VIDEO 🎞️', `.yt ${vid.url}`)
+`.trim(), 'AGROMOS SP - Bot', '🎵 AUDIO 💽 ', `.yta ${vid.url}`, '🎥 VIDEO 🎞️', `.yt ${vid.url}`)
 }
 handler.help = ['play'].map(v => v + ' <pencarian>')
 handler.tags = ['downloader']
