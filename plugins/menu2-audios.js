@@ -92,7 +92,7 @@ let str = `
 ° ➬🔊 _Quítate la ropa peter_
 ° ➬🔊 _Homero chino_
 ° ➬🔊 _Valla fan de bts_
-° ➬🔊 _Se estan riendo de mi_
+° ➬🔊 _Joder se estan riendo de mi_
 ° ➬🔊 _Desamor_
 ° ➬🔊 _Mi compa el manco_
 *_「 💚A̶G̶R̶O̶M̶O̶S̶ S̶P̶-̶B̶O̶T̶💚  」_*`.trim()
