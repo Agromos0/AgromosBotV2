@@ -123,6 +123,7 @@ global.reloadHandler = function () {
   }
   conn.welcome = '┏━━━━━━━━━━━━\n┃──〘 *WELCOME* 〙──\n┃━━━━━━━━━━━━\n┃ *_💚 @user bienvenid@ a_* \n┃ *_@subject 💚_*\n┃\n┃=> *_En este grupo podrás_*\n┃ *_encontrar:_*\n┠⊷ *Amistades 👻* \n┠⊷ *Desmadre 🥵* \n┠⊷ *Relajo😾* \n┠⊷ *Enemig@s 😼💚* :\n┠⊷ *Un Bot Sexy💚😹*\n┃\n┃=> *_Puedes solicitar mi lista de_*\n┃ *_comandos con:_*\n┠⊷ *#menu*\n┃\n┃=> *_Aquí tienes la descripción_* \n┃ *_del grupo, léela!!_*\n┃\n\n@desc\n\n┃ \n┃ *_❗  Disfruta de tu_* \n┃ *_estadía en el grupo  ❗_*  \n┃\n┗━━━━━━━━━━━'
   conn.bye = '┏━━━━━━━━━━━━\n┃──〘 *ADIOS* 〙───\n┃━━━━━━━━━━━━\n┃ *_🙀💚 Se fue @user_* \n┃ *_Que dios lo bendiga️_* \n┃ *_Y sea gay de por vidad 🥵🤣🔥_*\n┗━━━━━━━━━━'
+  conn.bye(m.chat, pp, bye, 'ADIOS', 'Adios', m, false, { contextInfo: { mentionedJid }})
   conn.spromote = '@user ahora es administrador!'
   conn.sdemote = '@user ya no es un administrador!'
   conn.handler = handler.handler
