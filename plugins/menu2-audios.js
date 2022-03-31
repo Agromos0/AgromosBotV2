@@ -48,7 +48,7 @@ let str = `
 ° ➬🔊  _La biblia_
 ° ➬🔊  _Onichan_
 ° ➬🔊  _Bot puto_
-° ➬🔊  _Shadow Bot_
+° ➬🔊  _AgromosBot_
 ° ➬🔊  _Siuuu_
 ° ➬🔊  _Rawr_
 ° ➬🔊  _UwU_
@@ -90,6 +90,11 @@ let str = `
 ° ➬🔊 _No chupala_
 ° ➬🔊 _Pasen un pornito_
 ° ➬🔊 _Quítate la ropa peter_
+° ➬🔊 _Homero chino_
+° ➬🔊 _Valla fan de bts_
+° ➬🔊 _Se estan riendo de mi_
+° ➬🔊 _Desamor_
+° ➬🔊 _Mi compa el manco_
 *_「 💚A̶G̶R̶O̶M̶O̶S̶ S̶P̶-̶B̶O̶T̶💚  」_*`.trim()
 let mentionedJid = [who]
 conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
