@@ -1,5 +1,4 @@
 //NO funciona este comando nada que editar aquí vale gracias xd
-
 let fs = require('fs')
 let fetch = require('node-fetch')
 let moment = require('moment-timezone')
