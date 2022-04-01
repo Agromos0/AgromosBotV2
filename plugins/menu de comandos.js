@@ -44,7 +44,7 @@ let menu =`
 ┣ ➱🔰 _Términos y condiciones_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
-┣ ➱Dato cada semana se agrega una nueva
+┣➱ Dato cada semana se agrega una nueva
 ┃ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃ *😳💚cuentas anime ver premiun*
 ┣ *_${usedPrefix}cuentasanime*
@@ -54,15 +54,22 @@ let menu =`
 ┗━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━┓
-┃*colaboraciónes del bot agromos sp*
+┃*colaboraciónes del bot* _agromos sp_
 ┣ ➱🔰 _${usedPrefix}creditos_
 ┗━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━┓
 *REGLAS*
-_______________________________
+_______________________
 ┣ ➬❗ _${usedPrefix}reglas_
 ┣ ➱🔰_${usedPrefix}Bot
+┗━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━┓
+┃*COVERSAR CON EL BOT AGROMOS SP*
+┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+*también puedes con (bot|alexa|siri|ect)
+┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┣ ➬⛔ _${usedPrefix}simi
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 
@@ -74,7 +81,7 @@ _______________________________
 ┣ ➬⛔ _${usedPrefix}report *comando con fallas*_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
-┃*OBTENER EL BOT AGROMOS SP*
+┃*OBTENER EL BOT AGROMOS* _SP_
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃➱♻️ _${usedPrefix}instalarbot_
 ┗━━━━━━━━━━━━━┛
@@ -95,7 +102,7 @@ _______________________________
 ┏━━━━━━━━━━━━━┓
 ┃ *<NUMERO DEL CREADOR/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ➬💚 _${usedPrefix}#creador/#agromos_
+┣ ➬💚 _${usedPrefix}creador/#agromos_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<JUEGOS/>*
@@ -114,8 +121,7 @@ _______________________________
 ┣ ➱💛 _${usedPrefix}manco *@tag / nombre*_
 ┣ ➱💙 _${usedPrefix}manca *@tag / nombre*_
 ┣ ➱💛 _${usedPrefix}formarpareja_
-┣ ➱💙 _${usedPrefix}dado_
-┣ ➱💛 _${usedPrefix}simsimi *texto*_
+┣ ➱💙 _${usedPrefix}dado
 ┣ ➱💙 _${usedPrefix}formartrio_
 ┣ ➱💛 _${usedPrefix}love *@tag / nombre*_
 ┣ ➱💙 _${usedPrefix}amigorandom_
