@@ -7,6 +7,8 @@ let info = `
 
 *➤ Grupo2 oficial del Bot:*
 *2.-https://chat.whatsapp.com/FZsoX7iGBZLBQgFX9MUXIy
+*➤ Grupo3 oficial del Bot:*
+*3.-https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH
 `.trim() 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🔥 AGROMOS SP - BOT 🔥*', 'status@broadcast')}
 handler.command = /^(grupos|gruposofc|gruposofc)$/i
