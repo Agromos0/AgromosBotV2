@@ -1,5 +1,4 @@
 //7W7 PORFAVOR  DEJAME CREDITOS NO SEAS MALO XD
-
 let fs = require('fs')
 let fetch = require('node-fetch')
 let moment = require('moment-timezone')
@@ -9,7 +8,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 let pp = './Menu2.jpg'
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let username = conn.getName(who)
-let vn = './media/bienvenido-menu-creador.mp3'
+let vn = './bienvenido-menu-creador.mp3'
 let menu =`
 ╭━〘 💚⚡️💚⚡️💚⚡️💚⚡️💚 〙━╮
  ‖    ⚡ _*AGROMOS BOT SP_* ⚡
@@ -46,9 +45,9 @@ let menu =`
 ┣ ➱👑 _${usedPrefix}disable *autoread*_
 ┗━━━━━━━━━━━━━┛
 ━〘 💚⚡💚⚡💚⚡💚⚡💚 ━`.trim()
-lelet mentionedJid = [who]
+let mentionedJid = [who]
 conn.send3ButtonImg(m.chat, pp, menu, '𝐴𝐺𝑅𝑂𝑀𝑂𝑆 𝑆𝑃-𝐵𝑂𝑇', '𝙼𝙴𝙽𝚄 𝚂𝙸𝙼𝙿𝙻𝙴', `#menusimple`, '𝙼𝙴𝙽𝚄 𝙰𝚄𝙳𝙸𝙾𝚂', `#menuaudios`, '𝙶𝚁𝚄𝙿𝙾 𝙾𝙵𝙸𝙲𝙸𝙰𝙻', `#grupos`, m, false, { contextInfo: { mentionedJid }})   
-await await await await await await conn.sendFile(m.chat, vn, 'bienvenido-menu-creador.mp3', null, m, true, {
+await await await await await await conn.sendFile(m.chat, vn, 'bienvenido-menu-creador', null, m, true, {
 type: 'audioMessage', 
 ptt: true 
 })
