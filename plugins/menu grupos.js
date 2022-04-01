@@ -1,18 +1,16 @@
 //NO funciona este comando nada que editar aquí vale gracias xd
-let PhoneNumber = require('awesome-phonenumber')
-let levelling = require('../lib/levelling')
+
+let fs = require('fs')
+let fetch = require('node-fetch')
+let moment = require('moment-timezone')
+let path = require('path')
+let util = require('util')
 let handler = async (m, { conn, usedPrefix }) => {
-let pp = './menu2.jpg'
+let pp = './Menu2.jpg'
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
-try {
-//    pp = await conn.getProfilePicture(who)
-} catch (e) {
-} finally {
-let about = (await conn.getStatus(who).catch(console.error) || {}).status || ''
-let { name, limit, exp, banned, lastclaim, registered, regTime, age, level } = global.DATABASE.data.users[m.sender]
-let { min, xp, max } = levelling.xpRange(level, global.multiplier)
 let username = conn.getName(who)
-let str = `
+let vn = './media/menu-agromos-bot.mp3'
+let menu =`
 ╭━〘 💚⚡️💚⚡️💚⚡️💚⚡️💚 〙━╮
  ‖    ⚡ _*AGROMOS BOT SP_* ⚡
  ‖ 💚*¡𝗛ola! ${username}* 💚
@@ -47,11 +45,14 @@ let str = `
 ┣ ➱⚡ _${usedPrefix}banchat_
 ┣ ➱⚡ _${usedPrefix}unbanchat_
 ┗━━━━━━━━━━━━━┛
-╰━〘 💚⚡💚⚡💚⚡💚⚡💚 〙━╯
-`.trim()
+━〘 💚⚡💚⚡💚⚡💚⚡💚 〙━`.trim()
 let mentionedJid = [who]
-conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
-}}
+conn.send3ButtonImg(m.chat, pp, menu, '𝐴𝐺𝑅𝑂𝑀𝑂𝑆 𝑆𝑃-𝐵𝑂𝑇', '𝙼𝙴𝙽𝚄 𝚂𝙸𝙼𝙿𝙻𝙴', `#menusimple`, '𝙼𝙴𝙽𝚄 𝙰𝚄𝙳𝙸𝙾𝚂', `#menuaudios`, '𝙶𝚁𝚄𝙿𝙾 𝙾𝙵𝙸𝙲𝙸𝙰𝙻', `#grupos`, m, false, { contextInfo: { mentionedJid }})   
+await await await await await await conn.sendFile(m.chat, vn, 'menu-agromos-bot.mp3', null, m, true, {
+type: 'audioMessage', 
+ptt: true 
+})
+}
 handler.command = /^(menugrupos)$/i
 handler.fail = null
 module.exports = handler
