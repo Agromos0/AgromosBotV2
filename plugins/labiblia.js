@@ -51,22 +51,12 @@ let menu =`
 ┣ ➬🔞 _${usedPrefix}yuri_
 ┣ ➬🔞 _${usedPrefix}nsfwloli_
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┃  *VIDEOS🥵🔥 ❗DATO PUEDE TARDAR HASTA 5 MIN EN ENVIARLO SON VIDEOS DE MAS DE 6 MIN❗🥵🔥*
-≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ➬🔞 _${usedPrefix}video_
-┣ ➬🔞 _${usedPrefix}pornovideo/pornovid_
-┣ ➬🔞 _${usedPrefix}pornogayv_
-┣ ➬🔞 _${usedPrefix}pornolesbianav_
-┣ ➬🔞 _${usedPrefix}pornobisexualvid|pornovid
-┣ ➬🔞 _${usedPrefix}pornoaleatorio_
-≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃  *STICKERS🥵🔥*
 ┣ ➬🔞 _${usedPrefix}pornogif_
 ┣ ➬🔞 _${usedPrefix}porno2_
 ┣ ➬🔞 _${usedPrefix}yaoigif_
 ┣ ➬🔞 _${usedPrefix}nekogif_
 ┣ ➬🔞 _${usedPrefix}yurigif_
-
 ┗━━━━━━━━━━━━━┛`.trim()
 let mentionedJid = [who]
 conn.sendButtonImg(m.chat, pp, menu, 'AGROMOS SP - Bot', '𝕄 𝔼 ℕ 𝕌   ℙ ℝ 𝕀 ℕ ℂ 𝕀 ℙ 𝔸 𝕃', `#menu`, m, false, { contextInfo: { mentionedJid }})   
