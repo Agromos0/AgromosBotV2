@@ -1,3 +1,4 @@
+//NO funciona este comando nada que editar aquí vale gracias xd
 let PhoneNumber = require('awesome-phonenumber')
 let levelling = require('../lib/levelling')
 let handler = async (m, { conn, usedPrefix }) => {
