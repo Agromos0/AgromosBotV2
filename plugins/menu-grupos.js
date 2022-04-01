@@ -1,4 +1,3 @@
-
 let PhoneNumber = require('awesome-phonenumber')
 let levelling = require('../lib/levelling')
 let handler = async (m, { conn, usedPrefix }) => {
@@ -55,4 +54,3 @@ conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid
 handler.command = /^(menugrupos)$/i
 handler.fail = null
 module.exports = handler
-
