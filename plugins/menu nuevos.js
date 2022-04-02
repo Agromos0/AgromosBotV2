@@ -3,7 +3,7 @@ let fs = require('fs')
 let fetch = require('node-fetch')
 let moment = require('moment-timezone')
 let path = require('path')
-"let util = require('util')"
+"let util = require('util')
 let handler = async (m, { conn, usedPrefix }) => {
 let pp = './Menu2.jpg'
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.senderlet
