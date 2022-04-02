@@ -48,6 +48,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.command = /^(menugrupos)$/i
+handler.command = /^(menunuevo)$/i
 handler.fail = null
 module.exports = handler
