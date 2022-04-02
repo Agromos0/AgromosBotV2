@@ -8,7 +8,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 let pp = './Menu2.jpg'
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let username = conn.getName(who)
-let vn = './media/cosas-ramdon.mp3'
+let vn = './media/cosas-random.mp3'
 let menu =`
 ╭━〘 💚⚡️💚⚡️💚⚡️💚⚡️💚 〙━╮
  ‖    ⚡ _*AGROMOS BOT SP_* ⚡
