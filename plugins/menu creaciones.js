@@ -40,7 +40,36 @@ let menu =`
 ┣ ➱📑 _${usedPrefix}blur *responde a una imagen*_
 ┣ ➱📑 _${usedPrefix}swm *link de imagen de google*_
 ┣ ➱📑 _${usedPrefix}gif *responde a un sticker/video*_
-┣ ➱📑 _${usedPrefix}tovideo *responde a una nota de
+┣ ➱📑 _${usedPrefix}tovideo *responde a una nota de vos_
+
+┃ *< CREACION DE LOGOS PERSONALIZADOS/>*
+┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┣ ➱🎨 _${usedPrefix}logos_ (lista)
+┣ ➱🎨 _${usedPrefix}lolice_
+┣ ➱🎨 _${usedPrefix}simpcard_
+┣ ➱🎨 _${usedPrefix}hornycard_ 
+┣ ➱🎨 _${usedPrefix}lblackpink_
+┣ ➱🎨 _${usedPrefix}coffe *texto*_
+┣ ➱🎨 _${usedPrefix}tahta *texto*_
+┣ ➱🎨 _${usedPrefix}nulis *texto*_
+┣ ➱🎨 _${usedPrefix}nulis2 *texto*_
+┣ ➱🎨 _${usedPrefix}lolice *@tag*_
+┣ ➱🎨 _${usedPrefix}simpcard *@tag*_
+┣ ➱🎨 _${usedPrefix}logotaza *texto*_ 
+┣ ➱🎨 _${usedPrefix}logocesped *texto*_ 
+┣ ➱🎨 _${usedPrefix}logotaza2 *texto*_ 
+┣ ➱🎨 _${usedPrefix}flaming *texto*_ 
+┣ ➱🎨 _${usedPrefix}logofire *texto*_
+┣ ➱🎨 _${usedPrefix}logosky *texto*_
+┣ ➱🎨 _${usedPrefix}logocorazon *texto*_
+┣ ➱🎨 _${usedPrefix}logorandom *texto*_
+┣ ➱🎨 _${usedPrefix}neonfire *texto*_ 
+┣ ➱🎨 _${usedPrefix}technology *texto*_ 
+┣ ➱🎨 _${usedPrefix}playa *texto*_ 
+┣ ➱🎨 _${usedPrefix}lovemessages *texto*_
+┣ ➱🎨 _${usedPrefix}cementerio *texto*_
+┣ ➱🎨 _${usedPrefix}romanticdouble *texto*_
+┣ ➱🎨 _${usedPrefix}romanticmessages *texto*_
 ┗━━━━━━━━━━━━━┛
 ━〘 💚⚡💚⚡💚⚡💚⚡💚 〙━`.trim()
 let mentionedJid = [who]
