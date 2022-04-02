@@ -38,6 +38,12 @@ let menu =`
 ┃≡≡≡≡≡≡≡≡≡
 ┃ *MENU DE* _CREACIONES_
 ┣ ➱♨️ _${usedPrefix}menucreaciones
+┃≡≡≡≡≡≡≡≡≡
+┃ *MENU  AUDIOS*
+┣ ➱♨️ _${usedPrefix}menu2
+┃≡≡≡≡≡≡≡≡≡
+┃*MENU NOPOR🔞*
+┣ ➱♨️ _${usedPrefix}labiblia
 ┗━━━━━━━━━━━━━┛
 ━〘 💚⚡💚⚡💚⚡💚⚡💚 〙━`.trim()
 let mentionedJid = [who]
