@@ -14,11 +14,10 @@ let menu =`
  ‖    ⚡ _*AGROMOS BOT SP_* ⚡
  ‖ 💚*¡𝗛ola! ${username}* 💚
  ‖
- ‖ Ⓜ️ *_MENÚ CREADOR_* Ⓜ️
+ ‖ Ⓜ️ *_MENÚ RAMDOM_* Ⓜ️
  ┏━━━━━━━━━━━━━┓
-┃ *<GESTION DEL CREADOR/>* 
+┃ *<GESTION DEL RAMDOM/>* 
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┃ *<PROPIETARO DEL BOT/>
 "┃ *<RANDOM|EXTRAS/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ➱💎 _${usedPrefix}doremon_
