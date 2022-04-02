@@ -45,7 +45,7 @@ let menu =`
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ _ATAJOS DE LOS_ *COMANDOS*
-➬ *🔥_${usedPrefix}menunuevo_
+➬🔥 _${usedPrefix}menunuevo_
 ┏━━━━━━━━━━━━━┓
 ┣➱ Dato cada semana se agrega una nueva
 ┃ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡
