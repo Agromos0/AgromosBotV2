@@ -38,6 +38,7 @@ let str = `
 ┣ ➱🔰 _${usedPrefix}creditos_
 ┣ ➱😳💚 _${usedPrefix}cuentasanime_
 ┣ ➱😳💚 _$usedPrefix}cuentaspotify_
+┣ ➱🔥 _${usedPrefix}menunuevo
 ┣ ➱♻️ _${usedPrefix}instalarbot_
 ┣ ➱📬 _${usedPrefix}bug_
 ┣ ➱📬 _${usedPrefix}report_
