@@ -1,4 +1,4 @@
-//7W7 PORFAVOR  DEJAME CREDITOS AGROMOS SP NO SEAS MALO XD
+//7W7 PORFAVOR  DEJAME CREDITOS NO SEAS MALO XD
 let fs = require('fs')
 let fetch = require('node-fetch')
 let moment = require('moment-timezone')
@@ -8,7 +8,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 let pp = './Menu2.jpg'
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let username = conn.getName(who)
-let vn = './media/sud-bot.mp3'
+//let vn = './media/sub-bot.mp3'
 let menu =`
 *–––––––『 MENU 』–––––––*
 
@@ -23,13 +23,12 @@ let menu =`
 │
 ╰────˧
 ━```✨ESPERO QUE DISFRUTES DEL BOT✨```━`.trim()
-let mentionedJid = [who]
-conn.send3ButtonImg(m.chat, pp, menu, 'BOT SUB', '𝙼𝙴𝙽𝚄 SIMPLE', `#menusimple`, 'MENU AUDIOS', `menu2`, 'GRUPOS', `#grupos`, m, false, { contextInfo: { mentionedJid }})   
-await await await await await await conn.sendFile(m.chat, vn, 'sud-bot.mp3', null, m, true, {
-type: 'audioMessage', 
-ptt: true 
-})
+conn.send3ButtonImg(m.chat, pp, menu, '©SUD - Bot', '𝙼𝙴𝙽𝚄 𝚂𝙸𝙼𝙿𝙻𝙴', `#menusimple`, '𝙼𝙴𝙽𝚄 𝙰𝚄𝙳𝙸𝙾𝚂', `#menuaudios`, '𝙶𝚁𝚄𝙿𝙾𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻𝙴𝚂', `#grupos`, m, false, { contextInfo: { mentionedJid }})   
+//await await await await await await conn.sendFile(m.chat, vn, 'mariana.mp3', null, m, true, {
+//type: 'audioMessage', 
+//ptt: true 
+//})
 }
-handler.command = /^(menusub)$/i
+handler.command = /^(menusud)$/i
 handler.fail = null
 module.exports = handler
