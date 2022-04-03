@@ -8,7 +8,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 let pp = './Menu2.jpg'
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let username = conn.getName(who)
-//let vn = './media/atajos-bot.mp3'
+let vn = './media/sud-bot.mp3'
 let menu =`
 *–––––––『 MENU 』–––––––*
 
@@ -25,10 +25,10 @@ let menu =`
 ━```✨ESPERO QUE DISFRUTES DEL BOT✨```━`.trim()
 let mentionedJid = [who]
 conn.send3ButtonImg(m.chat, pp, menu, 'BOT SUB', '𝙼𝙴𝙽𝚄 SIMPLE', `#menusimple`, 'MENU AUDIOS', `menu2`, 'GRUPOS', `#grupos`, m, false, { contextInfo: { mentionedJid }})   
-//await await await await await await conn.sendFile(m.chat, vn, 'atajos-bot.mp3', null, m, true, {
-//type: 'audioMessage', 
-//ptt: true 
-//})
+await await await await await await conn.sendFile(m.chat, vn, sud-bot.mp3', null, m, true, {
+type: 'audioMessage', 
+ptt: true 
+})
 }
 handler.command = /^(menusub)$/i
 handler.fail = null
