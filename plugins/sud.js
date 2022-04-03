@@ -13,9 +13,6 @@ Buenos días, ${username}
 ╰────˧
  ```✨ESPERO QUE DISFRUTES DEL BOT✨```
 `.trim() 
-let mentionedJid = [who]
-conn.send3ButtonImg(m.chat, pp, menu, 'BOT SUD', '𝙼𝙴𝙽𝚄 CREADOR', `#menucreador`, '𝙼ENU GRUPOS', `#menugrupos`, 'MENU DESCARGAS', `#menudescargas`, m, false, { contextInfo: { mentionedJid }})   
-//¡GRACIAS!
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '🧿MENU SUD🔮', 'status@broadcast')
 }
 handler.command = /^(menusud|SUD|MS|msud|menup)$/i
