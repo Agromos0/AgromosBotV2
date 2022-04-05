@@ -10,6 +10,7 @@
 **🔰GRUPO1 DEL BOT🔰**
 
 [![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JiONzKmPvB25su65XzAbqA)
+
 **🔰GRUPO2 DEL BOT**
 
 [![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BzLd8kaNMj24Hmu95tsiE2)
