@@ -1,3 +1,6 @@
+<P align="center">
+<img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px"> Sexy Quien Lo Lea UwU <img src="https://thumbs.gfycat.com/AdolescentAgileCoqui-size_restricted.gif" width="29px">
+
 **💚Hola bienvenido al repositorio del bot agromos sp💚 me puedes ayudardándole en la estrellita gracias💚👻_**
 
 <div align="center">
