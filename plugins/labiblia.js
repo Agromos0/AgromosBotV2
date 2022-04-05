@@ -51,6 +51,15 @@ let menu =`
 ┣ ➬🔞 _${usedPrefix}yuri_
 ┣ ➬🔞 _${usedPrefix}nsfwloli_
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┃  *VIDEOS🥵🔥*
+┣ ➬🔞 _${usedPrefix}video
+┣ ➬🔞 _${usedPrefix}pornobivid
+┣ ➬🔞 _${usedPrefix}pornoaleatorio 
+┣ ➬🔞 _${usedPrefix}pornovid/pornovideo
+┣ ➬🔞 _${usedPrefix}pornogayvid
+┣ ➬🔞 _${usedPrefix}pornolesbivid/pornolesbianavid
+┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃  *STICKERS🥵🔥*
 ┣ ➬🔞 _${usedPrefix}pornogif_
 ┣ ➬🔞 _${usedPrefix}porno2_
