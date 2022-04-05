@@ -19,10 +19,11 @@
 
 [![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH)
 
+**😼💚NUMERO DEL PROPIETARIO** 
+
+<a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 
 ### `AJUSTES`
-- ❗NUMERO DEL PROPIETARIO❗ <a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
-
 **Necesitamos que nos DONES lo que puedas donar  para comprar  un mejor servidor y el bot este activo 24/7 https://paypal.me/dotacionesdelbotagro?country.x=MX&locale.x=es_XC**
 
 [WhatsApp-Recomendado](https://download853.mediafire.com/xawpdplr7wvg/u133oxjqtiry52t/%E2%9E%A2+SOLITARIO+BUSINESS+%E2%9E%A2_2.21.19.21.apk)
