@@ -7,7 +7,9 @@
 ### `💚Si necesitas ayuda mandame mensaje sobre la instalación💚`
 <a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 ### `Unete a los grupos oficales para conocer novedades del Bot`
+**GRUPO1 DEL BOT**
 [![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JiONzKmPvB25su65XzAbqA)
+**🔰GRUPO2 DEL BOT**
 [![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BzLd8kaNMj24Hmu95tsiE2)
 ### `AJUSTES`
 - ❗NUMERO DEL PROPIETARIO❗ <a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
