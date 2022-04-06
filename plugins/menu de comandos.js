@@ -52,8 +52,8 @@ let menu =`
 ┃ *😳💚cuentas anime ver premiun*
 ┣ *_${usedPrefix}cuentasanime*
 ┣ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┃➬ *😳💚cuentas spotify premiun*
-┣➬ *_${usedPrefix}cuentaspotify*
+┃➬ *😳💚cuentas spotify premiun y Disney*
+┣➬ *_${usedPrefix}cuentaspotify/#cuentasdisney*
 ┗━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━┓
