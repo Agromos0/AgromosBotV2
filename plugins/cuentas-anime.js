@@ -8,6 +8,9 @@ let info = `
 
 *🙀💚correo:toxicoyt084@gmail.com*
 Contraseña:BotAgromos2001
+═══════════════
+*🙀💚correo:cupsisadri@vusra.com
+*contra:Agromos19
  
 *Data*
 Fecha de cuenta agregada:24/03/22
