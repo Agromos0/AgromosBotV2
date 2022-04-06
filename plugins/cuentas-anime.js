@@ -8,12 +8,16 @@ let info = `
 
 *🙀💚correo:toxicoyt084@gmail.com*
 Contraseña:BotAgromos2001
+
+*Data*
+Fecha de cuenta agregada:24/03/22
+Vencimiento:2 días restantes 
 ═══════════════
 *🙀💚correo:cupsisadri@vusra.com
 *contra:Agromos19
  
 *Data*
-Fecha de cuenta agregada:24/03/22
+Fecha de cuenta agregada:05/04/22
 Vencimiento:12 días restantes 
 
 Pronto  nuevas cuentas aparecerán aquí😼💚
