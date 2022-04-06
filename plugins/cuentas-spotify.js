@@ -12,13 +12,20 @@ Contraseña:BotAgromos
 *Data*
 Fecha de cuenta agregada:25/03/22
 Vencimiento:25/04/22
+═══════════
+*VER DISNEY DURANTE 30 DIAS*
+Correo:critchleyryan@gmail.com
+Contra:Ronaldo09!
 
+*Data*
+Fecha de cuenta agregada:06/4/22
+Vencimiento:06/5/22
 Pronto  nuevas cuentas aparecerán aquí😼💚
 ╰═════• 💚⚡💚 •═════╯
 `.trim() 
 //¡GRACIAS!
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '💚agromosSP', 'status@broadcast')
 }
-handler.command = /^(cuentaspotify|CUENTASPOTIFY|ESPOTIFY|espotify|escucharspotify)$/i
+handler.command = /^(cuentaspotify|cuentasdisney|ESPOTIFY|espotify|escucharspotify)$/i
 
 module.exports = handler
