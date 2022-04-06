@@ -13,7 +13,7 @@ Contraseña:BotAgromos
 Fecha de cuenta agregada:25/03/22
 Vencimiento:25/04/22
 ═══════════
-*VER DISNEY DURANTE 30 DIAS*
+*👉VER DISNEY DURANTE 30 DIAS👈*
 Correo:critchleyryan@gmail.com
 Contra:Ronaldo09!
 
