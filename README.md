@@ -22,9 +22,10 @@
 
 [![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH)
 
-**😼💚NUMERO DEL PROPIETARIO** 
+**😼💚NUMERO DEL  PROPIETARIO**
 
-<a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/AGROMOS_SP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+> NO BOT
 
 
 ### `💚Si necesitas  video de instalación aqui💚`
