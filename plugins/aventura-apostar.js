@@ -127,7 +127,7 @@ function button(teks, user) {
     
     const buttonMessage = {
         contentText: teks,
-        footerText: '*©Cᴏᴍᴘᴀɴʏ Zᴇɴ Bᴏᴛ*',
+        footerText: '*AGROMOS SP BOT*',
         buttons: buttons,
         headerType: 1
     }
