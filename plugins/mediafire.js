@@ -15,5 +15,5 @@ hasil.push({ nama, mime, size, link })
 return hasil
 }
 
-
+handler.command = /^(mediafire|Descarga|descarga)$/i
 module.exports = { mediafireDl }
