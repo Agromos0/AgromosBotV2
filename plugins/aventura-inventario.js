@@ -3,30 +3,6 @@ let fs = require('fs')
 let levelling = require('../lib/levelling')
 let handler = async (m, { conn, text, usedPrefix, command }) => {
     let healt = global.DATABASE._data.users[m.sender].healt
-    
-    var _healt = '🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍'
-       if (healt <= 10) {
-        _healt = '❤🤍🤍🤍🤍🤍🤍🤍🤍🤍'
-} else if (healt <= 20) {
-        _healt = '❤❤🤍🤍🤍🤍🤍🤍🤍🤍'
-} else if (healt <= 30) {
-        _healt = '❤❤❤🤍🤍🤍🤍🤍🤍🤍'
-} else if (healt <= 40) {
-	_healt = '❤❤❤❤🤍🤍🤍🤍🤍🤍'
-} else if (healt <= 50) {
-	_healt = '❤❤❤❤❤🤍🤍🤍🤍🤍'
-} else if (healt <= 60) {
-	_healt = '❤❤❤❤❤❤🤍🤍🤍🤍'
-} else if (healt <= 70) {
-	_healt = '❤❤❤❤❤❤❤🤍🤍🤍'
-} else if (healt <= 80) {
-	_healt = '❤❤❤❤❤❤❤❤🤍🤍'
-} else if (healt <= 90) {
-	_healt = '❤❤❤❤❤❤❤❤❤🤍'
-} else if (healt <= 999999999) {
-	_healt = '❤❤❤❤❤❤❤❤❤❤'
-}
-
     let armor = global.DATABASE._data.users[m.sender].armor
     let pickaxe = global.DATABASE._data.users[m.sender].pickaxe
     let pdurability = global.DATABASE._data.users[m.sender].pickaxedurability
