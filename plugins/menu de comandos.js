@@ -15,160 +15,90 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 let username = conn.getName(who)
 let vn = './media/menu-agromos-bot.mp3'
 let menu =`
-╭══〘 💚⚡💚⚡💚⚡💚 〙═╮
+══〘 💚⚡💚⚡💚⚡💚 〙═╮
 ║═ *𝐴𝐺𝑅𝑂𝑀𝑂𝑆 𝑆𝑃-𝐵𝑂𝑇*
-║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *💚𝗛ola, ${username}💚*
-║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *Creador del Bot: AGROMOS SP* 
-║➤ *Numero del creador:* *wa.me/18178659441 (No Bot)*
-║➤ *Numero del bot oficial²:* *wa.me/595983186566 (EL SANTI BOT OFICIAL Y EX ACTOR NOPOR)*
-║➤ *Numero del Bot oficial:* *wa.me/523931806576 (OFICAL DE AGROMOS SP)*
-║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
+║⇎ *💚𝗛𝔬𝔩𝔞, ${𝔲𝔰𝔢𝔯𝔫𝔞𝔪𝔢}💚*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
+║⇎ *𝐶𝑟𝑒𝑎𝑑𝑜𝑟 𝑑𝑒𝑙 𝐵𝑜𝑡: 𝐴𝐺𝑅𝑂𝑀𝑂𝑆 𝑆𝑃* 
+║⇎ *𝑁𝑢𝑚𝑒𝑟𝑜 𝑑𝑒𝑙 𝑐𝑟𝑒𝑎𝑑𝑜𝑟:* *wa.me/18178659441 (𝑁𝑜 𝐵𝑜𝑡)*
+║⇎ *𝑁𝑢𝑚𝑒𝑟𝑜 𝑑𝑒𝑙 𝑏𝑜𝑡 𝑜𝑓𝑖𝑐𝑖𝑎𝑙²:* *wa.me/595983186566 (𝐸𝐿 𝑆𝐴𝑁𝑇𝐼 𝐵𝑂𝑇 𝑂𝐹𝐼𝐶𝐼𝐴𝐿 𝑌 𝐸𝑋 𝐴𝐶𝑇𝑂𝑅 𝑁𝑂𝑃𝑂𝑅)*
+║⇎ *𝑁𝑢𝑚𝑒𝑟𝑜 𝑑𝑒𝑙 𝐵𝑜𝑡 𝑜𝑓𝑖𝑐𝑖𝑎𝑙:* *wa.me/523931806576 (𝑂𝐹𝐼𝐶𝐴𝐿 𝐷𝐸 𝐴𝐺𝑅𝑂𝑀𝑂𝑆)*
 ╰══╡💚⚡💚⚡💚⚡💚╞══╯
 ┏━━━━━━━━━━━━━┓
 ┃ *<INFORMACIÓN|MENUS/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ➱🔰 _${usedPrefix}sc_
-┣ ➱🔰 _${usedPrefix}donar_
-┣ ➱🔰 _${usedPrefix}infobot_
-┣ ➱🔰 _${usedPrefix}grupos_
-┣ ➱🔰 _${usedPrefix}instalarbot_
-┣ ➱🔰 _${usedPrefix}menusimple_
-┣ ➱🔰 _${usedPrefix}menuaudios_
-┣ ➱🔰 _${usedPrefix}menu2_
-┣ ➱🔰 _${usedPrefix}labiblia_
-┣ ➱🔰 _${usedPrefix}estado_
-┣ ➱🔰 _¿Qué es un Bot?_
-┣ ➱🔰 _Codigos para audios_
-┣ ➱🔰 _Términos y condiciones_
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
+┣ ➱🔰 _${usedPrefix}menuinformacion_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
-┃ _ATAJOS DE LOS_ *COMANDOS*
-➬🔥 _${usedPrefix}menunuevo_
+┃ *<NUMERO DEL CREADOR/>*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
+┣ ➬💚 _${usedPrefix}creador/#agromos_
+┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
+┃  *ATAJOS DE LOS COMANDOS*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
+┣ ➬🔥 _${usedPrefix}menunuevo_
+┗━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━┓
+┃ *cuentas anime ver premiun*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┣➱ Dato cada semana se agrega una nueva
-┃ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┃ *😳💚cuentas anime ver premiun*
 ┣ *_${usedPrefix}cuentasanime*
-┣ ≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┃➬ *😳💚cuentas spotify premiun y Disney*
 ┣➬ *_${usedPrefix}cuentaspotify/#cuentasdisney*
 ┗━━━━━━━━━━━━━┛
-
 ┏━━━━━━━━━━━━━┓
-┃*colaboraciónes del bot* _agromos sp_
+┃  *colaboraciónes del bot agromos sp*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┣ ➱🔰 _${usedPrefix}creditos_
 ┗━━━━━━━━━━━━━┛
-
 ┏━━━━━━━━━━━━━┓
-*REGLAS*
-_______________________
+    *REGLAS*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┣ ➬❗ _${usedPrefix}reglas_
 ┣ ➱🔰_${usedPrefix}Bot
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
-┃*COVERSAR CON EL BOT AGROMOS SP*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┃ *COVERSAR CON EL BOT AGROMOS SP*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 *también puedes con (bot|alexa|siri|ect)
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┣ ➬⛔ _${usedPrefix}simi
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
-
-┃ *<REPORTA FALLOS EN ALGÚN COMANDO/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┃ *<REPORTA FALLOS EN ALGÚN COMANDO*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋
+┣ ➬⛔ _${usedPrefix}bug *
 ┃ Reporta cualquier comando que falle para poder solucionarlo
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ➬⛔ _${usedPrefix}bug *comando con fallas*_
+comando con fallas*_
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋
+┣ ➬⛔ _${usedPrefix}bug *
 ┣ ➬⛔ _${usedPrefix}report *comando con fallas*_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
-┃*OBTENER EL BOT AGROMOS* _SP_
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┃ *OBTENER EL BOT AGROMOS SP*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋
 ┃➱♻️ _${usedPrefix}instalarbot_
 ┗━━━━━━━━━━━━━┛
 ┃ *<UNE UN BOT A TU GRUPO/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟🤖 _${usedPrefix}join *link del grupo*_ 
-┣ ඬ⃟🤖 _${usedPrefix}bots_
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋
+┣ ➱🤖 _${usedPrefix}join *link del grupo*_ 
+┣ ➱🤖 _${usedPrefix}bots_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
-┃ *<TOPS/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ඬ⃟🎖️ _${usedPrefix}top10gays_
-┣ ඬ⃟🎖️ _${usedPrefix}toplind@s_
-┣ ඬ⃟🎖️ _${usedPrefix}topput@s_
-┣ ඬ⃟🎖️ _${usedPrefix}toppajer@s_
-┣ ඬ⃟🎖️ _${usedPrefix}topotakus_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
-┃ *<NUMERO DEL CREADOR/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ➬💚 _${usedPrefix}creador/#agromos_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
-┃ *<JUEGOS/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ➱💙 _${usedPrefix}math *modo*_
-┣ ➱💛 _${usedPrefix}ttt *name del la sala*_
-┣ ➱💙 _${usedPrefix}delttt *nombre del la sala*_
-┣ ➱💛 _${usedPrefix}2gay *@tag*_
-┣ ➱💙 _${usedPrefix}gay *@tag / nombre*_
-┣ ➱💛 _${usedPrefix}lesbi *@tag / nombre*_
-┣ ➱💙 _${usedPrefix}pajero *@tag / nombre*_
-┣ ➱💛 _${usedPrefix}pajera *@tag / nombre*_
-┣ ➱💙 _${usedPrefix}puta *@tag / nombre*_
-┣ ➱💛 _${usedPrefix}puto *@tag / nombre*_
-┣ ➱💙 _${usedPrefix}rata *@tag / nombre*_
-┣ ➱💛 _${usedPrefix}manco *@tag / nombre*_
-┣ ➱💙 _${usedPrefix}manca *@tag / nombre*_
-┣ ➱💛 _${usedPrefix}formarpareja_
-┣ ➱💙 _${usedPrefix}dado
-┣ ➱💙 _${usedPrefix}formartrio_
-┣ ➱💛 _${usedPrefix}love *@tag / nombre*_
-┣ ➱💙 _${usedPrefix}amigorandom_
-┣ ➱💛 _${usedPrefix}slot *cantidad*_
-┣ ➱💙 _${usedPrefix}ppt *piedra / papel / tijera*_
-┣ ➱💛 _${usedPrefix}prostituta *@tag / nombre*_
-┣ ➱💙 _${usedPrefix}prostituto *@tag / nombre*_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
-┃ *<DESCARGAS/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ➱🔹️ _${usedPrefix}ytcomment_
-┣ ➱🔹️ _${usedPrefix}imagen *texto*_
-┣ ➱🔸️ _${usedPrefix}ytsearch *texto*_
-┣ ➱🔹️ _${usedPrefix}dlaudio *link yt*_
-┣ ➱🔸️ _${usedPrefix}dlvid *link yt*_
-┣ ➱🔹️ _${usedPrefix}ytmp3 *link yt*_
-┣ ➱🔸️ _${usedPrefix}ytmp4 *link yt*_
-┣ ➱🔹️ _${usedPrefix}ytmp4.2 *link yt*_
-┣ ➱🔸️ _${usedPrefix}play *titulo del audio*_
-┣ ➱🔹️ _${usedPrefix}play2 *titulo del video*_
-┣ ➱🔸️ _${usedPrefix}play3 *titulo del audio/video*_
-┣ ➱🔹️ _${usedPrefix}play4 *titulo del video*_
-┣ ➱🔸️ _${usedPrefix}letra *nombredelacanción*_
-┣ ➱🔹️ _${usedPrefix}google *texto*_
-┣ ➱🔸️ _${usedPrefix}googlef *texto*_
-┣ ➱🔹️ _${usedPrefix}wikipedia *palabra clave*_
-┣ ➱🔸️ _${usedPrefix}pinterestvideo *link de pinterest*_
-┣ ➱🔹️ _${usedPrefix}tiktokaudio *link del tiktok*_
-┣ ➱🔸️ _${usedPrefix}tiktok *link*_
-┣ ➱🔹️ _${usedPrefix}spotify *autor, cancion*_
-┣ ➱🔸️ _${usedPrefix}acortar *link*_
-┣ ➱🔹️ _${usedPrefix}pinterest *texto*_
-┣ ➱🔸️ _${usedPrefix}xnxx *link de xnxx*_
-┣ ➱🔹️ _${usedPrefix}xnxxsearch *texto*_
-┣ ➱🔸️ _${usedPrefix}ssweb *link*_
-┣ ➱🔹️ _${usedPrefix}igstory *username*_
-┣ ➱🔸️ _${usedPrefix}igstalk *username*_
-┣ ➱🔹️ _${usedPrefix}animeinfo *nombre del anime*_
-┣ ➱🔸️ _${usedPrefix}twvid *link de video de twitter*_
+┃ *<CONVIERTETE EN BOT/>*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
+┣ ➱💚 _${usedPrefix}stop_
+┣ ➱💚 _${usedPrefix}jadibot_
+┣ ➱💚 _${usedPrefix}getcode_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<GESTION DE GRUPOS/>* 
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┣ ➱⚡ _${usedPrefix}admins *texto*_ 
 ┣ ➱⚡ _${usedPrefix}añadir *numero*_ 
 ┣ ➱⚡ _${usedPrefix}sacar @tag_
@@ -196,8 +126,76 @@ _______________________
 ┣ ➱⚡ _${usedPrefix}unbanchat_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
+┃ *<TOPS GRUPOS>*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
+┣ ඬ⃟🎖️ _${usedPrefix}top10gays_
+┣ ඬ⃟🎖️ _${usedPrefix}toplind@s_
+┣ ඬ⃟🎖️ _${usedPrefix}topput@s_
+┣ ඬ⃟🎖️ _${usedPrefix}toppajer@s_
+┣ ඬ⃟🎖️ _${usedPrefix}topotakus_
+┗━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━┓
+┃ *<JUEGOS GRUPOS>*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
+┣ ➱🎴 _${usedPrefix}math *modo*_
+┣ ➱🥌 _${usedPrefix}ttt *name del la sala*_
+┣ ➱🎴 _${usedPrefix}delttt *nombre del la sala*_
+┣ ➱🥌 _${usedPrefix}2gay *@tag*_
+┣ ➱🎴 _${usedPrefix}gay *@tag / nombre*_
+┣ ➱🥌 _${usedPrefix}lesbi *@tag / nombre*_
+┣ ➱🎴 _${usedPrefix}pajero *@tag / nombre*_
+┣ ➱🥌 _${usedPrefix}pajera *@tag / nombre*_
+┣ ➱🎴 _${usedPrefix}puta *@tag / nombre*_
+┣ ➱🥌 _${usedPrefix}puto *@tag / nombre*_
+┣ ➱🎴 _${usedPrefix}rata *@tag / nombre*_
+┣ ➱🥌 _${usedPrefix}manco *@tag / nombre*_
+┣ ➱🎴 _${usedPrefix}manca *@tag / nombre*_
+┣ ➱🥌 _${usedPrefix}formarpareja_
+┣ ➱🎴 _${usedPrefix}dado
+┣ ➱🥌 _${usedPrefix}formartrio_
+┣ ➱🎴 _${usedPrefix}love *@tag / nombre*_
+┣ ➱🥌 _${usedPrefix}amigorandom_
+┣ ➱🎴 _${usedPrefix}slot *cantidad*_
+┣ ➱🥌 _${usedPrefix}ppt *piedra / papel / tijera*_
+┣ ➱🎴 _${usedPrefix}prostituta *@tag / nombre*_
+┣ ➱🥌 _${usedPrefix}prostituto *@tag / nombre*_
+┗━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━┓
+┃ *<DESCARGAS/>*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
+┣ ➱🚀 _${usedPrefix}ytcomment_
+┣ ➱📁 _${usedPrefix}imagen *texto*_
+┣ ➱🚀 _${usedPrefix}ytsearch *texto*_
+┣ ➱📁 _${usedPrefix}dlaudio *link yt*_
+┣ ➱🚀 _${usedPrefix}dlvid *link yt*_
+┣ ➱📁 _${usedPrefix}ytmp3 *link yt*_
+┣ ➱🚀 _${usedPrefix}ytmp4 *link yt*_
+┣ ➱📁 _${usedPrefix}ytmp4.2 *link yt*_
+┣ ➱🚀 _${usedPrefix}play *titulo del audio*_
+┣ ➱📁 _${usedPrefix}play2 *titulo del video*_
+┣ ➱🚀 _${usedPrefix}play3 *titulo del audio/video*_
+┣ ➱📁 _${usedPrefix}play4 *titulo del video*_
+┣ ➱🚀 _${usedPrefix}letra *nombredelacanción*_
+┣ ➱📁 _${usedPrefix}google *texto*_
+┣ ➱🚀 _${usedPrefix}googlef *texto*_
+┣ ➱📂 _${usedPrefix}wikipedia *palabra clave*_
+┣ ➱🚀 _${usedPrefix}pinterestvideo *link de pinterest*_
+┣ ➱📂 _${usedPrefix}tiktokaudio *link del tiktok*_
+┣ ➱🚀 _${usedPrefix}tiktok *link*_
+┣ ➱📂 _${usedPrefix}spotify *autor, cancion*_
+┣ ➱🚀 _${usedPrefix}acortar *link*_
+┣ ➱📂 _${usedPrefix}pinterest *texto*_
+┣ ➱🚀 _${usedPrefix}xnxx *link de xnxx*_
+┣ ➱📂 _${usedPrefix}xnxxsearch *texto*_
+┣ ➱🚀 _${usedPrefix}ssweb *link*_
+┣ ➱📂 _${usedPrefix}igstory *username*_
+┣ ➱🚀 _${usedPrefix}igstalk *username*_
+┣ ➱📂 _${usedPrefix}animeinfo *nombre del anime*_
+┣ ➱🚀 _${usedPrefix}twvid *link de video de twitter*_
+┗━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━┓
 ┃ *<CREADORES/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┣ ➱📑 _${usedPrefix}s_
 ┣ ➱📑 _${usedPrefix}sticker_
 ┣ ➱📑 _${usedPrefix}semoji_
@@ -222,7 +220,7 @@ _______________________
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<RANDOM|EXTRAS/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┣ ➱💎 _${usedPrefix}doremon_
 ┣ ➱⚜ _${usedPrefix}yeni_
 ┣ ➱💎 _${usedPrefix}jiso_
@@ -278,17 +276,17 @@ _______________________
 ┣ ➱💎 _${usedPrefix}subirestado *texto / responder video, imagen o gif*_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
-┃ *<COMANDOS +18/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┃ Usar bajo su responsabilidad 
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┃ *<COMANDOS +18🚫/>*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
+┃ Usar bajo su responsabilidad  y si te lo permiten en tu grupo
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┣ ➱🔞 _${usedPrefix}labiblia_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<EFECTOS PARA NOTAS DE VOZ O AUDIOS/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┃ Responde a un audio o nota de voz
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┣ ➱🎤 _${usedPrefix}bass_
 ┣ ➱🎤 _${usedPrefix}deep_
 ┣ ➱🎤 _${usedPrefix}earrape_
@@ -302,28 +300,15 @@ _______________________
 ┣ ➱🎤 _${usedPrefix}vibracion *cantidad*_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
-┃ *<AUDIOS|MENU* 
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ➱🔊 _${usedPrefix}menu2_
-┣ ➱🔊 _${usedPrefix}menuaudios_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
 ┃ *<CHAT ANONIMO/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┣ ➱📱 _${usedPrefix}start_
 ┣ ➱📱 _${usedPrefix}next_
 ┣ ➱📱 _${usedPrefix}leave_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
-┃ *<CONVIERTETE EN BOT/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ➱💚 _${usedPrefix}stop_
-┣ ➱💚 _${usedPrefix}jadibot_
-┣ ➱💚 _${usedPrefix}getcode_
-┗━━━━━━━━━━━━━┛
-┏━━━━━━━━━━━━━┓
 ┃ *<LOGOS PERSONALIZADOS/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┣ ➱🎨 _${usedPrefix}logos_ (lista)
 ┣ ➱🎨 _${usedPrefix}lolice_
 ┣ ➱🎨 _${usedPrefix}simpcard_
@@ -352,31 +337,10 @@ _______________________
 ┣ ➱🎨 _${usedPrefix}romanticmessages *texto*_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
-┃ *<PROPIETARO DEL BOT/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣ ➱👑 _${usedPrefix}boost_
-┣ ➱👑 _${usedPrefix}restart_
-┣ ➱👑 _${usedPrefix}banlist_
-┣ ➱👑 _${usedPrefix}binario1_
-┣ ➱👑 _${usedPrefix}binario2_
-┣ ➱👑 _${usedPrefix}banchat2_
-┣ ➱👑 _${usedPrefix}actualizar_
-┣ ➱👑 _${usedPrefix}CajaFuerte_
-┣ ➱👑 _${usedPrefix}unbanchat2_
-┣ ➱👑 _${usedPrefix}bc *texto*_
-┣ ➱👑 _${usedPrefix}bcgc *texto*_
-┣ ➱👑 _${usedPrefix}bcbot *texto*_
-┣ ➱👑 _${usedPrefix}setbye *@tag*_
-┣ ➱👑 _${usedPrefix}banuser *@tag*_
-┣ ➱👑 _${usedPrefix}enable *public*_
-┣ ➱👑 _${usedPrefix}disable *public*_
-┣ ➱👑 _${usedPrefix}unbanuser *@tag*_
-┣ ➱👑 _${usedPrefix}listgroup *@tag*_
-┣ ➱👑 _${usedPrefix}enable *restrict*_
-┣ ➱👑 _${usedPrefix}enable *autoread*_
-┣ ➱👑 _${usedPrefix}setwelcome *@tag*_
-┣ ➱👑 _${usedPrefix}enable *autoread*_
-┣ ➱👑 _${usedPrefix}disable *autoread*_
+┃ *PROPIETARO DEL BOT*
+┃  *Dato solo el creador los puede usar o bots oficales*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
+┣ ➱👑 _${usedPrefix}menucreador_
 ┗━━━━━━━━━━━━━┛`.trim()
 let mentionedJid = [who]
 conn.send3ButtonImg(m.chat, pp, menu, '𝐴𝐺𝑅𝑂𝑀𝑂𝑆 𝑆𝑃-𝐵𝑂𝑇', 'MENU NUEVO', `#menunuevo`, '𝙼𝙴𝙽𝚄 𝙰𝚄𝙳𝙸𝙾𝚂', `#menuaudios`, '𝙶𝚁𝚄𝙿𝙾 𝙾𝙵𝙸𝙲𝙸𝙰𝙻', `#grupos`, m, false, { contextInfo: { mentionedJid }})   
