@@ -46,10 +46,10 @@ let menu =`
 ┣➱ Dato cada semana se agrega una nueva
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┃ *😳💚cuentas anime ver premiun*
-┣ *_${usedPrefix}cuentasanime*
+┣ _${usedPrefix}cuentasanime_
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┃➬ *😳💚cuentas spotify premiun y Disney*
-┣➬ *_${usedPrefix}cuentaspotify/#cuentasdisney*
+┣➬ _${usedPrefix}cuentaspotify/#cuentasdisney_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃  *colaboraciónes del bot agromos sp*
@@ -60,19 +60,19 @@ let menu =`
     *REGLAS*
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┣ ➬❗ _${usedPrefix}reglas_
-┣ ➱🔰_${usedPrefix}Bot
+┣ ➱🔰_${usedPrefix}Bot_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *COVERSAR CON EL BOT AGROMOS SP*
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 *también puedes con (bot|alexa|siri|ect)
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
-┣ ➬⛔ _${usedPrefix}simi
+┣ ➬⛔  _${usedPrefix}simi_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<REPORTA FALLOS EN ALGÚN COMANDO*
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋
-┣ ➬⛔ _${usedPrefix}bug *
+┣ ➬⛔ _${usedPrefix}bug_
 ┃ Reporta cualquier comando que falle para poder solucionarlo
 comando con fallas*_
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋
