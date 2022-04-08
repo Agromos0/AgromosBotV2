@@ -18,7 +18,7 @@ let menu =`
 ══〘 💚⚡💚⚡💚⚡💚 〙═╮
 ║═ *𝐴𝐺𝑅𝑂𝑀𝑂𝑆 𝑆𝑃-𝐵𝑂𝑇*
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
-║⇎ *💚𝗛𝔬𝔩𝔞, ${𝔲𝔰𝔢𝔯𝔫𝔞𝔪𝔢}💚*
+║⇎ *💚𝗛ola, ${username}!💚*
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ║⇎ *𝐶𝑟𝑒𝑎𝑑𝑜𝑟 𝑑𝑒𝑙 𝐵𝑜𝑡: 𝐴𝐺𝑅𝑂𝑀𝑂𝑆 𝑆𝑃* 
 ║⇎ *𝑁𝑢𝑚𝑒𝑟𝑜 𝑑𝑒𝑙 𝑐𝑟𝑒𝑎𝑑𝑜𝑟:* *wa.me/18178659441 (𝑁𝑜 𝐵𝑜𝑡)*
@@ -246,7 +246,7 @@ comando con fallas*_
 ┣ ➱💎 _${usedPrefix}imagenrandom_
 ┣ ➱⚜ _${usedPrefix}neko_
 ┣ ➱💎 _${usedPrefix}lolivid_
-┣ ➱⚜ _${usedPrefix}iqtest_
+┣ ➱💎 _${usedPrefix}iqtest_
 ┣ ➱⚜ _${usedPrefix}kpopitzy_
 ┣ ➱💎 _${usedPrefix}navidad_
 ┣ ➱⚜ _${usedPrefix}loli_
@@ -343,7 +343,7 @@ comando con fallas*_
 ┣ ➱👑 _${usedPrefix}menucreador_
 ┗━━━━━━━━━━━━━┛`.trim()
 let mentionedJid = [who]
-conn.send3ButtonImg(m.chat, pp, menu, '𝐴𝐺𝑅𝑂𝑀𝑂𝑆 𝑆𝑃-𝐵𝑂𝑇', 'MENU NUEVO', `#menunuevo`, '𝙼𝙴𝙽𝚄 𝙰𝚄𝙳𝙸𝙾𝚂', `#menuaudios`, '𝙶𝚁𝚄𝙿𝙾 𝙾𝙵𝙸𝙲𝙸𝙰𝙻', `#grupos`, m, false, { contextInfo: { mentionedJid }})   
+conn.send3ButtonImg(m.chat, pp, menu, '𝐴𝐺𝑅𝑂𝑀𝑂𝑆 𝑆𝑃-𝐵𝑂𝑇', '𝙼𝙴𝙽𝚄 𝙽𝚄𝙴𝚅𝙾', `#menunuevo`, '𝙼𝙴𝙽𝚄 𝙰𝚄𝙳𝙸𝙾𝚂', `#menuaudios`, '𝙶𝚁𝚄𝙿𝙾 𝙾𝙵𝙸𝙲𝙸𝙰𝙻', `#grupos`, m, false, { contextInfo: { mentionedJid }})   
 await await await await await await conn.sendFile(m.chat, vn, 'menu-agromos-bot.mp3', null, m, true, {
 type: 'audioMessage', 
 ptt: true 
