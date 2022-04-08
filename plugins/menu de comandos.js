@@ -60,14 +60,14 @@ let menu =`
     *REGLAS*
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┣ ➬❗ _${usedPrefix}reglas_
-┣ ➱🔰_${usedPrefix}Bot_
+┣ ➱🔰 _${usedPrefix}Bot_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *COVERSAR CON EL BOT AGROMOS SP*
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 *también puedes con (bot|alexa|siri|ect)
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
-┣ ➬⛔  _${usedPrefix}simi_
+┣ ➬⛔ _${usedPrefix}simi_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<REPORTA FALLOS EN ALGÚN COMANDO*
@@ -76,7 +76,7 @@ let menu =`
 ┃ Reporta cualquier comando que falle para poder solucionarlo
 comando con fallas*_
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋
-┣ ➬⛔ _${usedPrefix}bug *
+┣ ➬⛔ _${usedPrefix}bug_
 ┣ ➬⛔ _${usedPrefix}report *comando con fallas*_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
