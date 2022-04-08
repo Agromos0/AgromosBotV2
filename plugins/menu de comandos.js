@@ -99,40 +99,40 @@ comando con fallas*_
 ┏━━━━━━━━━━━━━┓
 ┃ *<GESTION DE GRUPOS/>* 
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
-┣ ➱⚡ _${usedPrefix}admins *texto*_ 
-┣ ➱⚡ _${usedPrefix}añadir *numero*_ 
-┣ ➱⚡ _${usedPrefix}sacar @tag_
-┣ ➱⚡ _${usedPrefix}save *@tag + nombre de contacto*_
-┣ ➱⚡ _${usedPrefix}daradmin *@tag*_
-┣ ➱⚡ _${usedPrefix}quitaradmin *@tag*_
-┣ ➱⚡ _${usedPrefix}grupo *abrir / cerrar*_
-┣ ➱⚡ _${usedPrefix}enable welcome_
-┣ ➱⚡ _${usedPrefix}disable welcome_
-┣ ➱⚡ _${usedPrefix}enable antilink_
-┣ ➱⚡ _${usedPrefix}disable antilink_
-┣ ➱⚡ _${usedPrefix}enable antilink2_
-┣ ➱⚡ _${usedPrefix}disable antilink2_
-┣ ➱⚡ _${usedPrefix}enable delete_
-┣ ➱⚡ _${usedPrefix}disable  delete_ 
-┣ ➱⚡ _${usedPrefix}link_
-┣ ➱⚡ _${usedPrefix}notificar *texto*_
-┣ ➱⚡ _${usedPrefix}setname *Nuevo nombre del grupo*_
-┣ ➱⚡ _${usedPrefix}setdesc *Nueva descripción del grupo*_
-┣ ➱⚡ _${usedPrefix}infogrupo_
-┣ ➱⚡ _${usedPrefix}invocar *texto*_
-┣ ➱⚡ _${usedPrefix}del *responder a un mensaje del bot*_
-┣ ➱⚡ _${usedPrefix}fantasmas_
-┣ ➱⚡ _${usedPrefix}banchat_
-┣ ➱⚡ _${usedPrefix}unbanchat_
+┣ ➱✴ _${usedPrefix}admins *texto*_ 
+┣ ➱✴ _${usedPrefix}añadir *numero*_ 
+┣ ➱✴ _${usedPrefix}sacar @tag_
+┣ ➱✴ _${usedPrefix}save *@tag + nombre de contacto*_
+┣ ➱✴ _${usedPrefix}daradmin *@tag*_
+┣ ➱✴ _${usedPrefix}quitaradmin *@tag*_
+┣ ➱✴ _${usedPrefix}grupo *abrir / cerrar*_
+┣ ➱✴ _${usedPrefix}enable welcome_
+┣ ➱✴ _${usedPrefix}disable welcome_
+┣ ➱✴ _${usedPrefix}enable antilink_
+┣ ➱✴ _${usedPrefix}disable antilink_
+┣ ➱✴ _${usedPrefix}enable antilink2_
+┣ ➱✴ _${usedPrefix}disable antilink2_
+┣ ➱✴ _${usedPrefix}enable delete_
+┣ ➱✴ _${usedPrefix}disable  delete_ 
+┣ ➱✴ _${usedPrefix}link_
+┣ ➱✴ _${usedPrefix}notificar *texto*_
+┣ ➱✴ _${usedPrefix}setname *Nuevo nombre del grupo*_
+┣ ➱✴ _${usedPrefix}setdesc *Nueva descripción del grupo*_
+┣ ➱✴ _${usedPrefix}infogrupo_
+┣ ➱✴ _${usedPrefix}invocar *texto*_
+┣ ➱✴ _${usedPrefix}del *responder a un mensaje del bot*_
+┣ ➱✴ _${usedPrefix}fantasmas_
+┣ ➱✴ _${usedPrefix}banchat_
+┣ ➱✴ _${usedPrefix}unbanchat_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<TOPS GRUPOS>*
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
-┣ ඬ⃟🎖️ _${usedPrefix}top10gays_
-┣ ඬ⃟🎖️ _${usedPrefix}toplind@s_
-┣ ඬ⃟🎖️ _${usedPrefix}topput@s_
-┣ ඬ⃟🎖️ _${usedPrefix}toppajer@s_
-┣ ඬ⃟🎖️ _${usedPrefix}topotakus_
+┣ ➱🎖️ _${usedPrefix}top10gays_
+┣ ➱🎖️ _${usedPrefix}toplind@s_
+┣ ➱🎖️ _${usedPrefix}topput@s_
+┣ ➱🎖️ _${usedPrefix}toppajer@s_
+┣ ➱🎖️ _${usedPrefix}topotakus_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<JUEGOS GRUPOS>*
@@ -163,35 +163,35 @@ comando con fallas*_
 ┏━━━━━━━━━━━━━┓
 ┃ *<DESCARGAS/>*
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
-┣ ➱🚀 _${usedPrefix}ytcomment_
-┣ ➱📁 _${usedPrefix}imagen *texto*_
-┣ ➱🚀 _${usedPrefix}ytsearch *texto*_
+┣ ➱📤 _${usedPrefix}ytcomment_
+┣ ➱📂 _${usedPrefix}imagen *texto*_
+┣ ➱📥 _${usedPrefix}ytsearch *texto*_
 ┣ ➱📁 _${usedPrefix}dlaudio *link yt*_
-┣ ➱🚀 _${usedPrefix}dlvid *link yt*_
+┣ ➱📤 _${usedPrefix}dlvid *link yt*_
 ┣ ➱📁 _${usedPrefix}ytmp3 *link yt*_
-┣ ➱🚀 _${usedPrefix}ytmp4 *link yt*_
+┣ ➱📥 _${usedPrefix}ytmp4 *link yt*_
 ┣ ➱📁 _${usedPrefix}ytmp4.2 *link yt*_
-┣ ➱🚀 _${usedPrefix}play *titulo del audio*_
+┣ ➱📤 _${usedPrefix}play *titulo del audio*_
 ┣ ➱📁 _${usedPrefix}play2 *titulo del video*_
-┣ ➱🚀 _${usedPrefix}play3 *titulo del audio/video*_
+┣ ➱📥 _${usedPrefix}play3 *titulo del audio/video*_
 ┣ ➱📁 _${usedPrefix}play4 *titulo del video*_
-┣ ➱🚀 _${usedPrefix}letra *nombredelacanción*_
+┣ ➱📤 _${usedPrefix}letra *nombredelacanción*_
 ┣ ➱📁 _${usedPrefix}google *texto*_
-┣ ➱🚀 _${usedPrefix}googlef *texto*_
+┣ ➱📥 _${usedPrefix}googlef *texto*_
 ┣ ➱📂 _${usedPrefix}wikipedia *palabra clave*_
-┣ ➱🚀 _${usedPrefix}pinterestvideo *link de pinterest*_
+┣ ➱📤 _${usedPrefix}pinterestvideo *link de pinterest*_
 ┣ ➱📂 _${usedPrefix}tiktokaudio *link del tiktok*_
-┣ ➱🚀 _${usedPrefix}tiktok *link*_
+┣ ➱📥 _${usedPrefix}tiktok *link*_
 ┣ ➱📂 _${usedPrefix}spotify *autor, cancion*_
-┣ ➱🚀 _${usedPrefix}acortar *link*_
+┣ ➱📤 _${usedPrefix}acortar *link*_
 ┣ ➱📂 _${usedPrefix}pinterest *texto*_
-┣ ➱🚀 _${usedPrefix}xnxx *link de xnxx*_
+┣ ➱📥 _${usedPrefix}xnxx *link de xnxx*_
 ┣ ➱📂 _${usedPrefix}xnxxsearch *texto*_
-┣ ➱🚀 _${usedPrefix}ssweb *link*_
+┣ ➱📤 _${usedPrefix}ssweb *link*_
 ┣ ➱📂 _${usedPrefix}igstory *username*_
-┣ ➱🚀 _${usedPrefix}igstalk *username*_
+┣ ➱📥 _${usedPrefix}igstalk *username*_
 ┣ ➱📂 _${usedPrefix}animeinfo *nombre del anime*_
-┣ ➱🚀 _${usedPrefix}twvid *link de video de twitter*_
+┣ ➱📤 _${usedPrefix}twvid *link de video de twitter*_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<CREADORES/>*
