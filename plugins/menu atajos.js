@@ -18,32 +18,32 @@ let menu =`
  ┏━━━━━━━━━━━━━┓
 ┃ *<GESTION DE ATAJOS ALOS COMANDOS/>* 
 ┃≡≡≡≡≡≡≡≡≡
-┃ _menu de comandos_ *grupos*
+┃  *menu de comandos grupos*
 ┣ ➱♨️ _${usedPrefix}menugrupos_
 ┃≡≡≡≡≡≡≡≡≡
-┃ _MENU DE COMANDOS_ *CREADOR*
-┣ ➱♨️ _${usedPrefix}menucreador
+┃  *MENU DE COMANDOS CREADOR*
+┣ ➱♨️ _${usedPrefix}menucreador_
 ┃≡≡≡≡≡≡≡≡≡
-┃_MENU DE_ *INFORMACIÓN*
-┣ ➱♨️ _${usedPrefix}minformacion
+┃ *MENU DE INFORMACIÓN*
+┣ ➱♨️ _${usedPrefix}menuinformacion_
 ┃≡≡≡≡≡≡≡≡≡
 ┃ *MENU DE DESCARGAS*
-┣ ➱♨️ _${usedPrefix}menudescargas
+┣ ➱♨️ _${usedPrefix}menudescargas_
 ┃≡≡≡≡≡≡≡≡≡
-┃ _MENU DE JUEGOS_
-┣ ➱♨️ _${usedPrefix}menujuegos
+┃ *MENU DE JUEGOS*
+┣ ➱♨️ _${usedPrefix}menujuegos_
 ┃≡≡≡≡≡≡≡≡≡
-┃ _MENU DE COSAS_ *RANDOM*
-┣ ➱♨️ _${usedPrefix}menurandom
+┃  *MENU DE COSAS RANDOM*
+┣ ➱♨️ _${usedPrefix}menurandom_
 ┃≡≡≡≡≡≡≡≡≡
-┃ *MENU DE* _CREACIONES_
-┣ ➱♨️ _${usedPrefix}menucreaciones
+┃  *MENU DE CREACIONES*
+┣ ➱♨️ _${usedPrefix}menucreaciones_
 ┃≡≡≡≡≡≡≡≡≡
 ┃ *MENU  AUDIOS*
-┣ ➱♨️ _${usedPrefix}menu2
+┣ ➱♨️ _${usedPrefix}menu2_
 ┃≡≡≡≡≡≡≡≡≡
-┃*MENU NOPOR🔞*
-┣ ➱♨️ _${usedPrefix}labiblia
+┃ *MENU NOPOR🔞*
+┣ ➱♨️ _${usedPrefix}labiblia_
 ┗━━━━━━━━━━━━━┛
 ━〘 💚⚡💚⚡💚⚡💚⚡💚 〙━`.trim()
 let mentionedJid = [who]
