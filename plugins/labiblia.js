@@ -9,14 +9,14 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 let username = conn.getName(who)
 let vn = './media/mariana.mp3'
 let menu =`
-╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
-║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+╭══〘 💚⚡💚⚡💚 〙═╮
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ║➤ *💚𝗛ola, ${username}💚*
-║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-╰══╡✯✯✯✯✯✯✯✯╞══╯
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
+╰══╡💚⚡💚⚡💚╞══╯
 ┏━━━━━━━━━━━━━┓
 ┃ *<MENU +18/>*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┃   *🥵🔥  IMAGENES🥵🔥*
 ┣ ➬🔞 _${usedPrefix}imglesbians_
 ┣ ➬🔞 _${usedPrefix}porno_
@@ -50,16 +50,15 @@ let menu =`
 ┣ ➬🔞 _${usedPrefix}glass_
 ┣ ➬🔞 _${usedPrefix}yuri_
 ┣ ➬🔞 _${usedPrefix}nsfwloli_
-≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┃  *VIDEOS🥵🔥*
-┣ ➬🔞 _${usedPrefix}video
-┣ ➬🔞 _${usedPrefix}pornobivid
-┣ ➬🔞 _${usedPrefix}pornoaleatorio 
-┣ ➬🔞 _${usedPrefix}pornovid/pornovideo
-┣ ➬🔞 _${usedPrefix}pornogayvid
-┣ ➬🔞 _${usedPrefix}pornolesbivid/pornolesbianavid
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┣ ➬🔞 _${usedPrefix}video_
+┣ ➬🔞 _${usedPrefix}pornobivid_
+┣ ➬🔞 _${usedPrefix}pornoaleatorio_
+┣ ➬🔞 _${usedPrefix}pornovid/pornovideo_
+┣ ➬🔞 _${usedPrefix}pornogayvid_
+┣ ➬🔞 _${usedPrefix}pornolesbivid/pornolesbianavid_
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
 ┃  *STICKERS🥵🔥*
 ┣ ➬🔞 _${usedPrefix}pornogif_
 ┣ ➬🔞 _${usedPrefix}porno2_
@@ -68,7 +67,7 @@ let menu =`
 ┣ ➬🔞 _${usedPrefix}yurigif_
 ┗━━━━━━━━━━━━━┛`.trim()
 let mentionedJid = [who]
-conn.sendButtonImg(m.chat, pp, menu, 'AGROMOS SP - Bot', '𝕄 𝔼 ℕ 𝕌   ℙ ℝ 𝕀 ℕ ℂ 𝕀 ℙ 𝔸 𝕃', `#menu`, m, false, { contextInfo: { mentionedJid }})   
+conn.sendButtonImg(m.chat, pp, menu, 'AGROMOS SP - Bot', 'MENU DESCARGAS', `#menudescargas`, m, false, { contextInfo: { mentionedJid }})   
 await await await await await await conn.sendFile(m.chat, vn, 'ora.mp3', null, m, true, {
 type: 'audioMessage', 
 ptt: true 
