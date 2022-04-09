@@ -157,8 +157,9 @@ comando con fallas*_
 ┣ ➱🥌 _${usedPrefix}amigorandom_
 ┣ ➱🎴 _${usedPrefix}slot *cantidad*_
 ┣ ➱🥌 _${usedPrefix}ppt *piedra / papel / tijera*_
-┣ ➱🎴 _${usedPrefix}prostituta *@tag / nombre*_
+heteroprostituta *@tag / nombre*_
 ┣ ➱🥌 _${usedPrefix}prostituto *@tag / nombre*_
+┣ ➱🥌 _${usedPrefix}hetero *@tag / nombre*_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<DESCARGAS/>*
