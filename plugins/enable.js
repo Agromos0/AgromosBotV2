@@ -133,6 +133,19 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
         global.dfail('prems', m, conn)
         throw false
       }
+      opts['restrict'] = isEnable
+      break
+    case 'nsfw':
+        if (!m.isGroup) {
+          if (!isOwner) {
+            global.dfail('group', m, conn)
+            throw true
+          }
+        } else if (!(isAdmin || isOwner)) {
+          global.dfail('admin', m, conn)
+          throw true
+        }
+        chat.nsfw = isEnable
       global.opts['autoread'] = isEnable
       break
     case 'pconly':
@@ -173,16 +186,17 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
       break
     default:
       if (!/[01]/.test(command)) return m.reply(`
-Lista de opciones: welcome | delete | public | antilink | restrict | autoread | antilink2
+*Lista de opciones:*
+✅ welcome | delete | public | antilink | restrict | autoread | antilink2 | detect | antitoxic | nsfw
 
-Ejemplo:
+*Ejemplo:*
 ${usedPrefix}enable welcome
 ${usedPrefix}disable welcome
 `.trim())
       throw false
   }
   m.reply(`
-*${type}* *${isEnable ? 'activa' : 'desactiva'}do* ${isAll ? '*para este bot*' : isUser ? '' : '*para este chat*'}
+*${type}* *${isEnable ? 'activa' : 'desactiva'}do* ✅ ${isAll ? '*para este Bot*' : isUser ? '' : '*para este chat*'}
 `.trim())
 }
 handler.help = ['en', 'dis'].map(v => v + 'able <option>')
