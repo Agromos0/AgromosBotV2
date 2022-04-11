@@ -1,6 +1,6 @@
 const { mediafireDl } = require('../lib/mediafire.js')
 let handler = async (m, { conn, text, args, isPrems, isOwner, usedPrefix, command }) => {
-if (!text) return m.reply(`Kirim perintah ${usedPrefix + command} *link mediafire*`)
+if (!text) return m.reply(`🔰Enviar link de descarga  ejemplo🔰 ${usedPrefix + command} *link mediafire*`)
 if (!args[0].includes('mediafire.com')) return m.reply(error.linkmf)
 let mdjon = args.join(' ')
 res = await mediafireDl(mdjon)
