@@ -1,4 +1,6 @@
 const axios = require('axios')
+if (!DATABASE._data.chats[m.chat].nsfw && m.isGroup) throw '❰ ⚠️ ❱ *Función Nsfw Desactivada*\n*Escriba #on nsfw para activar esta Función.*'
+
 let handler = async(m, { conn, usedPrefix, command }) => {
 let res = await axios("https://meme-api.herokuapp.com/gimme/nsfw")
 let json = res.data
