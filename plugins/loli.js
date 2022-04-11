@@ -1,6 +1,7 @@
 let fetch = require('node-fetch')
 
 let handler = async (m, { conn, text }) => {
+if (!DATABASE._data.chats[m.chat].nsfw && m.isGroup) throw '❰ ⚠️ ❱ *Función Nsfw Desactivada*\n*Escriba #on nsfw para activar esta Función.*'
 let res = await fetch('https://raw.githubusercontent.com/Xmell91/loli/master/loli.json')
 if (!res.ok) throw await `${res.status} ${res.statusText}`;
 let json = await res.json();
