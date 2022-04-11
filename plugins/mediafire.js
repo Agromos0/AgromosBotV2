@@ -6,10 +6,10 @@ let mdjon = args.join(' ')
 res = await mediafireDl(mdjon)
 result = `「 *MEDIAFIRE DOWNLOAD* 」
 *DATOS OTENIDOS CON EXITO*
-🆔 Nombre : ${res[0].nama}
-📊 Tamaño : ${res[0].size}
+📛 Nombre : ${res[0].nama}
+🗂 Tamaño : ${res[0].size}
 💬 Link : ${res[0].link}
-_Tunggu Proses Upload Media_`
+_Espere un momento mientras envio su archivo  🔰AGROMOS SP-BOT🔰_`
 m.reply(result)
 //await sleep(100)
 conn.sendFile(m.chat, res[0].link, res[0].nama, null, m, false, {asDocument:true, mimetype:res[0].mime})
