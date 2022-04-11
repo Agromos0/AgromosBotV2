@@ -29,10 +29,11 @@
 
 
 ### `💚Si necesitas  video de instalación aqui💚`
-### `Video tutorial para instalar el Bot`
+### `Video tutorial para instalar el Bot👈`
 <a href="https://youtu.be/pZQqL51epBY"><img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
+### `Video tutorial para modificar  el bot🔰`
+<a href="https://youtu.be/Te6QBSZzXVU"><img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
 > Dar click en la imagen para redireccionarlos a YouTube
-
 **❇DATOS IMPORTANTES⬅️**
 
 **Necesitamos que nos DONES lo que puedas donar  para comprar  un mejor servidor y el bot este activo 24/7 https://paypal.me/dotacionesdelbotagro?country.x=MX&locale.x=es_XC**
