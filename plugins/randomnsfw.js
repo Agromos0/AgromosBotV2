@@ -1,6 +1,5 @@
 const axios = require('axios')
  let handler = async(m, { conn }) => {
-const axios = require('axios')let handler = async(m, { conn }) => {if (!DATABASE._data.chats[m.chat].nsfw && m.isGroup) throw '❰ ⚠️ ❱ *Función Nsfw Desactivada*\n*Escriba #on nsfw para activar esta Función.*'let porn = await axios.get('https://meme-api.herokuapp.com/gimme/nsfw') conn.sendFile(m.chat, `${porn.data.url}`, '', `${porn.data.title}`, m) }
 let les = await axios.get('https://meme-api.herokuapp.com/gimme/nsfw')
             conn.sendFile(m.chat, `${les.data.url}`, '', `${les.data.title}`, m)
   }
