@@ -48,6 +48,10 @@ let menu =`
 ┣ ➱🔸️ _${usedPrefix}igstalk *username*_
 ┣ ➱🔹️ _${usedPrefix}animeinfo *nombre del anime*_
 ┣ ➱🔸️ _${usedPrefix}twvid *link de video de twitter*_
+┏━━━━━━━━━━━━━┓
+┃  *_DESCARGAS MEDIAFIRE_*
+║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
+┣ ➱📥 _${usedPrefix}mediafire_
 ┗━━━━━━━━━━━━━┛
 ━〘 💚⚡💚⚡💚⚡💚⚡💚 〙━`.trim()
 let mentionedJid = [who]
