@@ -1,7 +1,9 @@
 let handler = async m => m.reply(`
 *◄INSTALACIÓN DEL BOT AGROMOS SP*
 
-*VIDEO TUTORIAL YouTube: https://youtu.be/pZQqL51epBY* 
+*🔰VIDEO TUTORIAL YouTube instalación 🔰: https://youtu.be/pZQqL51epBY* 
+
+*👉Video Tutorial modificar el bot atu gusto👈: https://youtu.be/Te6QBSZzXVU*
 
 💥 𝐑𝐄𝐐𝐔𝐈𝐒𝐈𝐓𝐎𝐒 𝐏𝐀𝐑𝐀 𝐋𝐀 𝐈𝐍𝐒𝐓𝐀𝐋𝐀𝐂𝐈𝐎𝐍 💥
 ➤ Termux  
