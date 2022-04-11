@@ -3,7 +3,10 @@ let fetch = require('node-fetch')
 let moment = require('moment-timezone')
 let path = require('path')
 let util = require('util')
+
 let handler = async (m, { conn, usedPrefix }) => {
+if (!DATABASE._data.chats[m.chat].nsfw && m.isGroup) throw '❰ ⚠️ ❱ ALTO HAY PAJERO  EN ESTE GRUPO NO SE PERMITE COMANDOS PORNO POR DESION DE UN ADM🔞 *Función Nsfw Desactivada*\n*Escriba #on nsfw para activar esta Función.*'
+
 let pp = './+18.jpg'
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let username = conn.getName(who)
