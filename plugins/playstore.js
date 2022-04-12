@@ -2,9 +2,9 @@ let fetch = require('node-fetch')
 
 let handler = async(m, { conn, text }) => {
 
-  if (!text) return conn.reply(m.chat, 'Harap Masukan nama aplikasi', m)
+  if (!text) return conn.reply(m.chat, 'Escribe ek nombre la la aplicación que buscas⬅️, m)
 
-  await m.reply('Searching...')
+  await m.reply('Buscando datos espere un momento...')
     let res = await fetch(`https://caliphapi.com/api/playstore/search?apikey=ELYASXD&q=${text}`)
     let json = await res.json()
     if (res.status !== 200) throw await res.text()
