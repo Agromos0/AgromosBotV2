@@ -38,7 +38,12 @@
 
 **Necesitamos que nos DONES lo que puedas donar  para comprar  un mejor servidor y el bot este activo 24/7 https://paypal.me/dotacionesdelbotagro?country.x=MX&locale.x=es_XC**
 
-[WhatsApp-Recomendado](https://download853.mediafire.com/xawpdplr7wvg/u133oxjqtiry52t/%E2%9E%A2+SOLITARIO+BUSINESS+%E2%9E%A2_2.21.19.21.apk)
+**⚠️WHATSAPPS RECOMENDADOS REPORTAR CADA QUE EL LINK FALLE⚠️**
+
+[WhatsApp1️⃣](https://www.mediafire.com/file/g475ph68h8c047y/WhatsApp_2.21.19.21%25282%2529.apk/file)
+
+[WHATSAPP2️⃣](https://www.mediafire.com/file/pxfksca3yatav5f/%25E0%25A6%2594%25E0%25A7%25A3%25CD%25A1%25CD%259C%25E2%258D%25A3%25E2%2582%25AE%25C9%2584%25C9%258C%25C9%2583%25C3%2598%25E0%25AF%2580%25CD%259C%25E2%2582%25A6%25C6%2597%25E2%2582%25AE%25C9%258C%25C3%2598%25E2%259E%25A3%25E2%259C%25AA_%25E2%25A9%2594-7.apk/file)
+
 <toca el link y te mandara directamente a mediafire 
 cada que el link del WhatsApp recomendado deje de funcionar reportar para restablecer 
 
