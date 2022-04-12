@@ -4,7 +4,7 @@ let handler = async (m, { args, usedPrefix, command }) => {
 
     if (!args[0]) throw 'link  del repositorio githud que quieres clonar ejemplo #gitclone https://github.com/Agromos0/AgromosBotV'
 
-    if (!regex.test(args[0])) throw 'link salah!'
+    if (!regex.test(args[0])) throw 'link invalido!'
 
     let [, user, repo] = args[0].match(regex) || []
     repo = repo.replace(/.git$/, '')
