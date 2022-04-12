@@ -8,6 +8,6 @@ type: 'audioMessage', // paksa tanpa convert di ffmpeg
 ptt: true // true diatas ga work, sebab dipaksa tanpa convert ;v
 })
 }
-handler.customPrefix = /AgromosBot|AGROMOS BOT|tsbb|TSBB|Shadow Brokers - Bot|shadow brokers - bot|Shadow bot|shadow bot|theshadowbrokersbot|Shadow Bot|Hola Bot|hola bot|Hola bot|hola bot|ShadowBot|shadowbot/
+handler.customPrefix = /Agromos|AGROMOS|Hola|hola|Hola|hola/
 handler.command = new RegExp
 module.exports = handler
