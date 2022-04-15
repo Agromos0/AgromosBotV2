@@ -10,11 +10,7 @@ let handler = async m => m.reply(`
 *┃🔰 Tenemos un servidor gratuito por esos son los hechos🔰*
 *┃🔰el servidor de paga es mucho mejor🔰_
 *┃🔰Te pedimos que DONES lo que puedas donar🔰_
-*┃➤ PayPal: https://paypal.me/dotacionesdelbotagro?country.x=MX&locale.x=es_XC*
-*┃ para que puedas apoyar  al funcionamiento del bot y siga funcionando<3*
-*┃ -   CLABE: 646180192175788481* 
-*┃ -   BANCO: STP* 
-*┃ -   BENEFICIARIO: JOSE SOBRINO* 
+*┃➤ PayPal: paypal.me/agromosBotDonaciones
 *┃ -   CONCEPTO: APOYO*
 *┃❖ Contáctame si necesitas otros*
 *┃datos y para darte las gracias <3*
