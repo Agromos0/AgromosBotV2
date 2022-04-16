@@ -4,7 +4,7 @@ let qrcode = require('qrcode')
 if (global.conns instanceof Array) console.log()// for (let i of global.conns) global.conns[i] && global.conns[i].user ? global.conns[i].close().then(() => delete global.conns[id] && global.conns.splice(i, 1)).catch(global.conn.logger.error) : delete global.conns[i] && global.conns.splice(i, 1)
 else global.conns = []
 let handler  = async (m, { conn, args, usedPrefix, command }) => {
-if (!DATABASE._data.chats[m.chat].nsfw && m.isGroup) throw '❰ ⚠️ ❱ *Función ser su bot en grupos Desactivada debido al espam y no escanear el QR Usar solamente la función en el privado del bot si no lo escaneas harás que se sature el bot y serás bloqueado*\n*para poder escanear el qr ocupas dos cell y un whatsapp sin device 👉Att agromos.*'
+if (!DATABASE._data.chats[m.chat].nsfw && m.isGroup) throw '❰ ⚠️ ❱ *Función ser su bot en grupos Desactivada debido al espam y no escanear el QR⚠️ 🚫Reglas para  ser sub bot🚫 1 Tener dos dispotivos cerca para escanear el qr solo usarlo  al privado sui no sabes  que hacer no lo uses 2 Si pides  el qr y no lo escaneas harás el que el bot se sature y  serás bloqueado  automáticamente 👉Att agromos.*'
   let parent = args[0] && args[0] == 'plz' ? conn : global.conn
   let auth = false
   if ((args[0] && args[0] == 'plz') || global.conn.user.jid == conn.user.jid) {
