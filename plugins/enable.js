@@ -187,7 +187,7 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
     default:
       if (!/[01]/.test(command)) return m.reply(`
 *Lista de opciones:*
-✅ welcome | delete | public | antilink | restrict | autoread | antilink2 | detect | antitoxic | nsfw
+✅ welcome | delete | public | antilink | restrict | autoread | antilink2 | detect | antitoxic | nsfw | qr
 
 *Ejemplo:*
 ${usedPrefix}enable welcome
