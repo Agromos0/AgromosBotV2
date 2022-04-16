@@ -5,11 +5,7 @@ if (global.conns instanceof Array) console.log()// for (let i of global.conns) g
 else global.conns = []
 
 let handler  = async (m, { conn, args, usedPrefix, command }) => {
-if (!DATABASE._data.chats[m.chat].qr && m.isGroup) throw '❰ ⚠️ ❱ *Función jadibot en grupos Desactivada debido al spam  favor lee estas reglas para convertirte en  sub bot sin problemas >~<
-1.- Tener 2 dispositivos cerca para escanear el código QR, no uses este comando si no sabes que hacer.
-2.- Si pides los códigos QR y no lo escaneaste, seras bloqueado automáticamente, y el desbloqueo dependera del dueño del bot.
-3.- No podras ser subbot siendo bot!, y si eres el dueño del bot causarás error al bot >:v
-*\n*Escriba #on qr para activar esta Función.*'
+if (!DATABASE._data.chats[m.chat].jadi && m.isGroup) throw '❰ ⚠️ ❱ *Función ser su bot en grupos Desactivada debido al espam y no escanear el QR Usar solamente la función en el privado del bot si no lo escaneas harás que se sature el bot y serás bloqueado*\n*Escriba #on jadi para activar esta Función.*'
 
   let parent = args[0] && args[0] == 'plz' ? conn : global.conn
   let auth = false
